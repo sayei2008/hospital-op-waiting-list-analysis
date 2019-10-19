@@ -1,0 +1,2587 @@
+"Year","Hospital","Month","TotalPatients"
+2014,"Bantry General Hospital","Jan",649
+2014,"Bantry General Hospital","Feb",678
+2014,"Bantry General Hospital","Mar",668
+2014,"Bantry General Hospital","Apr",735
+2014,"Bantry General Hospital","May",751
+2014,"Bantry General Hospital","Jun",815
+2014,"Bantry General Hospital","Jul",956
+2014,"Bantry General Hospital","Aug",1146
+2014,"Bantry General Hospital","Sep",1229
+2014,"Bantry General Hospital","Oct",1391
+2014,"Bantry General Hospital","Nov",1528
+2014,"Bantry General Hospital","Dec",1630
+2014,"Beaumont Hospital","Jan",19922
+2014,"Beaumont Hospital","Feb",20593
+2014,"Beaumont Hospital","Mar",21304
+2014,"Beaumont Hospital","Apr",21229
+2014,"Beaumont Hospital","May",20719
+2014,"Beaumont Hospital","Jun",21271
+2014,"Beaumont Hospital","Jul",21413
+2014,"Beaumont Hospital","Aug",20823
+2014,"Beaumont Hospital","Sep",21078
+2014,"Beaumont Hospital","Oct",21867
+2014,"Beaumont Hospital","Nov",22704
+2014,"Beaumont Hospital","Dec",22593
+2014,"Cappagh National Orthopaedic Hospital","Jan",1782
+2014,"Cappagh National Orthopaedic Hospital","Feb",1715
+2014,"Cappagh National Orthopaedic Hospital","Mar",1692
+2014,"Cappagh National Orthopaedic Hospital","Apr",1662
+2014,"Cappagh National Orthopaedic Hospital","May",1640
+2014,"Cappagh National Orthopaedic Hospital","Jun",1553
+2014,"Cappagh National Orthopaedic Hospital","Jul",1627
+2014,"Cappagh National Orthopaedic Hospital","Aug",1657
+2014,"Cappagh National Orthopaedic Hospital","Sep",1586
+2014,"Cappagh National Orthopaedic Hospital","Oct",1560
+2014,"Cappagh National Orthopaedic Hospital","Nov",1481
+2014,"Cappagh National Orthopaedic Hospital","Dec",1439
+2014,"Cavan General Hospital","Jan",5566
+2014,"Cavan General Hospital","Feb",5900
+2014,"Cavan General Hospital","Mar",6201
+2014,"Cavan General Hospital","Apr",6304
+2014,"Cavan General Hospital","May",6389
+2014,"Cavan General Hospital","Jun",6687
+2014,"Cavan General Hospital","Jul",7067
+2014,"Cavan General Hospital","Aug",7363
+2014,"Cavan General Hospital","Sep",7385
+2014,"Cavan General Hospital","Oct",7281
+2014,"Cavan General Hospital","Nov",7463
+2014,"Cavan General Hospital","Dec",7359
+2014,"Childrens University Hospital Temple Street","Jan",9831
+2014,"Childrens University Hospital Temple Street","Feb",10220
+2014,"Childrens University Hospital Temple Street","Mar",10396
+2014,"Childrens University Hospital Temple Street","Apr",9836
+2014,"Childrens University Hospital Temple Street","May",10244
+2014,"Childrens University Hospital Temple Street","Jun",10609
+2014,"Childrens University Hospital Temple Street","Jul",10270
+2014,"Childrens University Hospital Temple Street","Aug",9860
+2014,"Childrens University Hospital Temple Street","Sep",10427
+2014,"Childrens University Hospital Temple Street","Oct",10655
+2014,"Childrens University Hospital Temple Street","Nov",10853
+2014,"Childrens University Hospital Temple Street","Dec",11038
+2014,"Connolly Hospital","Jan",8374
+2014,"Connolly Hospital","Feb",8569
+2014,"Connolly Hospital","Mar",8581
+2014,"Connolly Hospital","Apr",8477
+2014,"Connolly Hospital","May",7977
+2014,"Connolly Hospital","Jun",7938
+2014,"Connolly Hospital","Jul",8336
+2014,"Connolly Hospital","Aug",8515
+2014,"Connolly Hospital","Sep",8695
+2014,"Connolly Hospital","Oct",8916
+2014,"Connolly Hospital","Nov",8980
+2014,"Connolly Hospital","Dec",9132
+2014,"Cork University Hospital","Jan",16624
+2014,"Cork University Hospital","Feb",17384
+2014,"Cork University Hospital","Mar",18052
+2014,"Cork University Hospital","Apr",18932
+2014,"Cork University Hospital","May",19737
+2014,"Cork University Hospital","Jun",20295
+2014,"Cork University Hospital","Jul",21519
+2014,"Cork University Hospital","Aug",21905
+2014,"Cork University Hospital","Sep",22227
+2014,"Cork University Hospital","Oct",23244
+2014,"Cork University Hospital","Nov",23638
+2014,"Cork University Hospital","Dec",23899
+2014,"Croom Orthopaedic Hospital","Jan",2175
+2014,"Croom Orthopaedic Hospital","Feb",2052
+2014,"Croom Orthopaedic Hospital","Mar",2242
+2014,"Croom Orthopaedic Hospital","Apr",2383
+2014,"Croom Orthopaedic Hospital","May",2360
+2014,"Croom Orthopaedic Hospital","Jun",2701
+2014,"Croom Orthopaedic Hospital","Jul",3035
+2014,"Croom Orthopaedic Hospital","Aug",3066
+2014,"Croom Orthopaedic Hospital","Sep",3336
+2014,"Croom Orthopaedic Hospital","Oct",3328
+2014,"Croom Orthopaedic Hospital","Nov",3385
+2014,"Croom Orthopaedic Hospital","Dec",3498
+2014,"Ennis Hospital","Jan",2345
+2014,"Ennis Hospital","Feb",2439
+2014,"Ennis Hospital","Mar",2420
+2014,"Ennis Hospital","Apr",2431
+2014,"Ennis Hospital","May",2536
+2014,"Ennis Hospital","Jun",2501
+2014,"Ennis Hospital","Jul",2528
+2014,"Ennis Hospital","Aug",2661
+2014,"Ennis Hospital","Sep",2679
+2014,"Ennis Hospital","Oct",2608
+2014,"Ennis Hospital","Nov",2556
+2014,"Ennis Hospital","Dec",2573
+2014,"Galway University Hospital","Jan",23494
+2014,"Galway University Hospital","Feb",26639
+2014,"Galway University Hospital","Mar",27483
+2014,"Galway University Hospital","Apr",28415
+2014,"Galway University Hospital","May",28161
+2014,"Galway University Hospital","Jun",26678
+2014,"Galway University Hospital","Jul",27786
+2014,"Galway University Hospital","Aug",28558
+2014,"Galway University Hospital","Sep",29088
+2014,"Galway University Hospital","Oct",29335
+2014,"Galway University Hospital","Nov",29998
+2014,"Galway University Hospital","Dec",34008
+2014,"Kerry General Hospital","Jan",5678
+2014,"Kerry General Hospital","Feb",5841
+2014,"Kerry General Hospital","Mar",6113
+2014,"Kerry General Hospital","Apr",6787
+2014,"Kerry General Hospital","May",6997
+2014,"Kerry General Hospital","Jun",7314
+2014,"Kerry General Hospital","Jul",7650
+2014,"Kerry General Hospital","Aug",7939
+2014,"Kerry General Hospital","Sep",7846
+2014,"Kerry General Hospital","Oct",7906
+2014,"Kerry General Hospital","Nov",7858
+2014,"Kerry General Hospital","Dec",7842
+2014,"Letterkenny General Hospital","Jan",10965
+2014,"Letterkenny General Hospital","Feb",11289
+2014,"Letterkenny General Hospital","Mar",11595
+2014,"Letterkenny General Hospital","Apr",11900
+2014,"Letterkenny General Hospital","May",12195
+2014,"Letterkenny General Hospital","Jun",12699
+2014,"Letterkenny General Hospital","Jul",13303
+2014,"Letterkenny General Hospital","Aug",13561
+2014,"Letterkenny General Hospital","Sep",13762
+2014,"Letterkenny General Hospital","Oct",14076
+2014,"Letterkenny General Hospital","Nov",14273
+2014,"Letterkenny General Hospital","Dec",15899
+2014,"Louth County Hospital","Jan",1454
+2014,"Louth County Hospital","Feb",1478
+2014,"Louth County Hospital","Mar",1556
+2014,"Louth County Hospital","Apr",1574
+2014,"Louth County Hospital","May",1786
+2014,"Louth County Hospital","Jun",1803
+2014,"Louth County Hospital","Jul",1885
+2014,"Louth County Hospital","Aug",1993
+2014,"Louth County Hospital","Sep",1977
+2014,"Louth County Hospital","Oct",2513
+2014,"Louth County Hospital","Nov",2018
+2014,"Louth County Hospital","Dec",1981
+2014,"Mallow General Hospital","Jan",1936
+2014,"Mallow General Hospital","Feb",2068
+2014,"Mallow General Hospital","Mar",2085
+2014,"Mallow General Hospital","Apr",2105
+2014,"Mallow General Hospital","May",2088
+2014,"Mallow General Hospital","Jun",2079
+2014,"Mallow General Hospital","Jul",2115
+2014,"Mallow General Hospital","Aug",2123
+2014,"Mallow General Hospital","Sep",2444
+2014,"Mallow General Hospital","Oct",2486
+2014,"Mallow General Hospital","Nov",2460
+2014,"Mallow General Hospital","Dec",2426
+2014,"Mater Misericordiae University Hospital","Jan",21834
+2014,"Mater Misericordiae University Hospital","Feb",21074
+2014,"Mater Misericordiae University Hospital","Mar",20835
+2014,"Mater Misericordiae University Hospital","Apr",19470
+2014,"Mater Misericordiae University Hospital","May",18589
+2014,"Mater Misericordiae University Hospital","Jun",18097
+2014,"Mater Misericordiae University Hospital","Jul",18678
+2014,"Mater Misericordiae University Hospital","Aug",18949
+2014,"Mater Misericordiae University Hospital","Sep",19394
+2014,"Mater Misericordiae University Hospital","Oct",19812
+2014,"Mater Misericordiae University Hospital","Nov",20644
+2014,"Mater Misericordiae University Hospital","Dec",21491
+2014,"Mayo General Hospital","Jan",4482
+2014,"Mayo General Hospital","Feb",5387
+2014,"Mayo General Hospital","Mar",5481
+2014,"Mayo General Hospital","Apr",5577
+2014,"Mayo General Hospital","May",5749
+2014,"Mayo General Hospital","Jun",5590
+2014,"Mayo General Hospital","Jul",5434
+2014,"Mayo General Hospital","Aug",5514
+2014,"Mayo General Hospital","Sep",5644
+2014,"Mayo General Hospital","Oct",5583
+2014,"Mayo General Hospital","Nov",5677
+2014,"Mayo General Hospital","Dec",5734
+2014,"Mercy University Hospital","Jan",4809
+2014,"Mercy University Hospital","Feb",5001
+2014,"Mercy University Hospital","Mar",5210
+2014,"Mercy University Hospital","Apr",5280
+2014,"Mercy University Hospital","May",5484
+2014,"Mercy University Hospital","Jun",5508
+2014,"Mercy University Hospital","Jul",5666
+2014,"Mercy University Hospital","Aug",5821
+2014,"Mercy University Hospital","Sep",5678
+2014,"Mercy University Hospital","Oct",5554
+2014,"Mercy University Hospital","Nov",5434
+2014,"Mercy University Hospital","Dec",5425
+2014,"Midland Regional Hospital Mullingar","Jan",6128
+2014,"Midland Regional Hospital Mullingar","Feb",5995
+2014,"Midland Regional Hospital Mullingar","Mar",6095
+2014,"Midland Regional Hospital Mullingar","Apr",6080
+2014,"Midland Regional Hospital Mullingar","May",6361
+2014,"Midland Regional Hospital Mullingar","Jun",6274
+2014,"Midland Regional Hospital Mullingar","Jul",6695
+2014,"Midland Regional Hospital Mullingar","Aug",6748
+2014,"Midland Regional Hospital Mullingar","Sep",7125
+2014,"Midland Regional Hospital Mullingar","Oct",7196
+2014,"Midland Regional Hospital Mullingar","Nov",7241
+2014,"Midland Regional Hospital Mullingar","Dec",6268
+2014,"Midland Regional Hospital Portlaoise","Jan",3187
+2014,"Midland Regional Hospital Portlaoise","Feb",3373
+2014,"Midland Regional Hospital Portlaoise","Mar",3407
+2014,"Midland Regional Hospital Portlaoise","Apr",3504
+2014,"Midland Regional Hospital Portlaoise","May",3660
+2014,"Midland Regional Hospital Portlaoise","Jun",3756
+2014,"Midland Regional Hospital Portlaoise","Jul",3893
+2014,"Midland Regional Hospital Portlaoise","Aug",3985
+2014,"Midland Regional Hospital Portlaoise","Sep",4015
+2014,"Midland Regional Hospital Portlaoise","Oct",4027
+2014,"Midland Regional Hospital Portlaoise","Nov",3971
+2014,"Midland Regional Hospital Portlaoise","Dec",3398
+2014,"Midland Regional Hospital Tullamore","Jan",8754
+2014,"Midland Regional Hospital Tullamore","Feb",8957
+2014,"Midland Regional Hospital Tullamore","Mar",9220
+2014,"Midland Regional Hospital Tullamore","Apr",9901
+2014,"Midland Regional Hospital Tullamore","May",10323
+2014,"Midland Regional Hospital Tullamore","Jun",10780
+2014,"Midland Regional Hospital Tullamore","Jul",10811
+2014,"Midland Regional Hospital Tullamore","Aug",10666
+2014,"Midland Regional Hospital Tullamore","Sep",11056
+2014,"Midland Regional Hospital Tullamore","Oct",11558
+2014,"Midland Regional Hospital Tullamore","Nov",11924
+2014,"Midland Regional Hospital Tullamore","Dec",12034
+2014,"Naas General Hospital","Jan",4655
+2014,"Naas General Hospital","Feb",4794
+2014,"Naas General Hospital","Mar",5006
+2014,"Naas General Hospital","Apr",5083
+2014,"Naas General Hospital","May",5085
+2014,"Naas General Hospital","Jun",5313
+2014,"Naas General Hospital","Jul",5390
+2014,"Naas General Hospital","Aug",5288
+2014,"Naas General Hospital","Sep",5187
+2014,"Naas General Hospital","Oct",5266
+2014,"Naas General Hospital","Nov",5063
+2014,"Naas General Hospital","Dec",4881
+2014,"Nenagh Hospital","Jan",1759
+2014,"Nenagh Hospital","Feb",1905
+2014,"Nenagh Hospital","Mar",1760
+2014,"Nenagh Hospital","Apr",1611
+2014,"Nenagh Hospital","May",1642
+2014,"Nenagh Hospital","Jun",1580
+2014,"Nenagh Hospital","Jul",1650
+2014,"Nenagh Hospital","Aug",1698
+2014,"Nenagh Hospital","Sep",1742
+2014,"Nenagh Hospital","Oct",1654
+2014,"Nenagh Hospital","Nov",1724
+2014,"Nenagh Hospital","Dec",1748
+2014,"Our Lady of Lourdes Hospital Drogheda","Jan",8432
+2014,"Our Lady of Lourdes Hospital Drogheda","Feb",8976
+2014,"Our Lady of Lourdes Hospital Drogheda","Mar",9083
+2014,"Our Lady of Lourdes Hospital Drogheda","Apr",9283
+2014,"Our Lady of Lourdes Hospital Drogheda","May",8496
+2014,"Our Lady of Lourdes Hospital Drogheda","Jun",8870
+2014,"Our Lady of Lourdes Hospital Drogheda","Jul",9262
+2014,"Our Lady of Lourdes Hospital Drogheda","Aug",9704
+2014,"Our Lady of Lourdes Hospital Drogheda","Sep",9760
+2014,"Our Lady of Lourdes Hospital Drogheda","Oct",10037
+2014,"Our Lady of Lourdes Hospital Drogheda","Nov",10583
+2014,"Our Lady of Lourdes Hospital Drogheda","Dec",10598
+2014,"Our Lady's Children's Hospital Crumlin","Jan",11964
+2014,"Our Lady's Children's Hospital Crumlin","Feb",12155
+2014,"Our Lady's Children's Hospital Crumlin","Mar",12237
+2014,"Our Lady's Children's Hospital Crumlin","Apr",12690
+2014,"Our Lady's Children's Hospital Crumlin","May",12756
+2014,"Our Lady's Children's Hospital Crumlin","Jun",12809
+2014,"Our Lady's Children's Hospital Crumlin","Jul",12911
+2014,"Our Lady's Children's Hospital Crumlin","Aug",12929
+2014,"Our Lady's Children's Hospital Crumlin","Sep",12591
+2014,"Our Lady's Children's Hospital Crumlin","Oct",12311
+2014,"Our Lady's Children's Hospital Crumlin","Nov",12119
+2014,"Our Lady's Children's Hospital Crumlin","Dec",11849
+2014,"Our Lady's Hospital Navan","Jan",4207
+2014,"Our Lady's Hospital Navan","Feb",4155
+2014,"Our Lady's Hospital Navan","Mar",4171
+2014,"Our Lady's Hospital Navan","Apr",4216
+2014,"Our Lady's Hospital Navan","May",3827
+2014,"Our Lady's Hospital Navan","Jun",3754
+2014,"Our Lady's Hospital Navan","Jul",3658
+2014,"Our Lady's Hospital Navan","Aug",3757
+2014,"Our Lady's Hospital Navan","Sep",3764
+2014,"Our Lady's Hospital Navan","Oct",3958
+2014,"Our Lady's Hospital Navan","Nov",3906
+2014,"Our Lady's Hospital Navan","Dec",3902
+2014,"Portiuncula Hospital","Jan",3023
+2014,"Portiuncula Hospital","Feb",3167
+2014,"Portiuncula Hospital","Mar",3175
+2014,"Portiuncula Hospital","Apr",3243
+2014,"Portiuncula Hospital","May",3213
+2014,"Portiuncula Hospital","Jun",2951
+2014,"Portiuncula Hospital","Jul",2987
+2014,"Portiuncula Hospital","Aug",3082
+2014,"Portiuncula Hospital","Sep",3199
+2014,"Portiuncula Hospital","Oct",3235
+2014,"Portiuncula Hospital","Nov",3345
+2014,"Portiuncula Hospital","Dec",3225
+2014,"Roscommon Hospital","Jan",1599
+2014,"Roscommon Hospital","Feb",1969
+2014,"Roscommon Hospital","Mar",2063
+2014,"Roscommon Hospital","Apr",1952
+2014,"Roscommon Hospital","May",2106
+2014,"Roscommon Hospital","Jun",2054
+2014,"Roscommon Hospital","Jul",2061
+2014,"Roscommon Hospital","Aug",2035
+2014,"Roscommon Hospital","Sep",2068
+2014,"Roscommon Hospital","Oct",2042
+2014,"Roscommon Hospital","Nov",2055
+2014,"Roscommon Hospital","Dec",2049
+2014,"Royal Victoria Eye and Ear Hospital","Jan",6928
+2014,"Royal Victoria Eye and Ear Hospital","Feb",7233
+2014,"Royal Victoria Eye and Ear Hospital","Mar",7604
+2014,"Royal Victoria Eye and Ear Hospital","Apr",8000
+2014,"Royal Victoria Eye and Ear Hospital","May",8282
+2014,"Royal Victoria Eye and Ear Hospital","Jun",8301
+2014,"Royal Victoria Eye and Ear Hospital","Jul",7860
+2014,"Royal Victoria Eye and Ear Hospital","Aug",8872
+2014,"Royal Victoria Eye and Ear Hospital","Sep",9216
+2014,"Royal Victoria Eye and Ear Hospital","Oct",8681
+2014,"Royal Victoria Eye and Ear Hospital","Nov",8738
+2014,"Royal Victoria Eye and Ear Hospital","Dec",8632
+2014,"Sligo Regional Hospital","Jan",9369
+2014,"Sligo Regional Hospital","Feb",9758
+2014,"Sligo Regional Hospital","Mar",9892
+2014,"Sligo Regional Hospital","Apr",10230
+2014,"Sligo Regional Hospital","May",10459
+2014,"Sligo Regional Hospital","Jun",10670
+2014,"Sligo Regional Hospital","Jul",10976
+2014,"Sligo Regional Hospital","Aug",11080
+2014,"Sligo Regional Hospital","Sep",11218
+2014,"Sligo Regional Hospital","Oct",11363
+2014,"Sligo Regional Hospital","Nov",11589
+2014,"Sligo Regional Hospital","Dec",11847
+2014,"South Infirmary Victoria University Hospital","Jan",13528
+2014,"South Infirmary Victoria University Hospital","Feb",14157
+2014,"South Infirmary Victoria University Hospital","Mar",14028
+2014,"South Infirmary Victoria University Hospital","Apr",13946
+2014,"South Infirmary Victoria University Hospital","May",14729
+2014,"South Infirmary Victoria University Hospital","Jun",15253
+2014,"South Infirmary Victoria University Hospital","Jul",17308
+2014,"South Infirmary Victoria University Hospital","Aug",18204
+2014,"South Infirmary Victoria University Hospital","Sep",19622
+2014,"South Infirmary Victoria University Hospital","Oct",19873
+2014,"South Infirmary Victoria University Hospital","Nov",20222
+2014,"South Infirmary Victoria University Hospital","Dec",20012
+2014,"South Tipperary General Hospital","Jan",1867
+2014,"South Tipperary General Hospital","Feb",2055
+2014,"South Tipperary General Hospital","Mar",1934
+2014,"South Tipperary General Hospital","Apr",1978
+2014,"South Tipperary General Hospital","May",1774
+2014,"South Tipperary General Hospital","Jun",1705
+2014,"South Tipperary General Hospital","Jul",2021
+2014,"South Tipperary General Hospital","Aug",2422
+2014,"South Tipperary General Hospital","Sep",2666
+2014,"South Tipperary General Hospital","Oct",2726
+2014,"South Tipperary General Hospital","Nov",2645
+2014,"South Tipperary General Hospital","Dec",2652
+2014,"St. Columcille's Hospital","Jan",2171
+2014,"St. Columcille's Hospital","Feb",2229
+2014,"St. Columcille's Hospital","Mar",2167
+2014,"St. Columcille's Hospital","Apr",2191
+2014,"St. Columcille's Hospital","May",2263
+2014,"St. Columcille's Hospital","Jun",2163
+2014,"St. Columcille's Hospital","Jul",2111
+2014,"St. Columcille's Hospital","Aug",2132
+2014,"St. Columcille's Hospital","Sep",2051
+2014,"St. Columcille's Hospital","Oct",2155
+2014,"St. Columcille's Hospital","Nov",2128
+2014,"St. Columcille's Hospital","Dec",2093
+2014,"St. James's Hospital","Jan",9827
+2014,"St. James's Hospital","Feb",10009
+2014,"St. James's Hospital","Mar",10360
+2014,"St. James's Hospital","Apr",10471
+2014,"St. James's Hospital","May",10531
+2014,"St. James's Hospital","Jun",11059
+2014,"St. James's Hospital","Jul",11146
+2014,"St. James's Hospital","Aug",11235
+2014,"St. James's Hospital","Sep",11319
+2014,"St. James's Hospital","Oct",11322
+2014,"St. James's Hospital","Nov",11428
+2014,"St. James's Hospital","Dec",11337
+2014,"St. John's Hospital Limerick","Jan",1078
+2014,"St. John's Hospital Limerick","Feb",1056
+2014,"St. John's Hospital Limerick","Mar",1058
+2014,"St. John's Hospital Limerick","Apr",1043
+2014,"St. John's Hospital Limerick","May",1102
+2014,"St. John's Hospital Limerick","Jun",1127
+2014,"St. John's Hospital Limerick","Jul",1144
+2014,"St. John's Hospital Limerick","Aug",1225
+2014,"St. John's Hospital Limerick","Sep",1225
+2014,"St. John's Hospital Limerick","Oct",1323
+2014,"St. John's Hospital Limerick","Nov",1297
+2014,"St. John's Hospital Limerick","Dec",1337
+2014,"St. Luke's General Hospital Kilkenny","Jan",2520
+2014,"St. Luke's General Hospital Kilkenny","Feb",2520
+2014,"St. Luke's General Hospital Kilkenny","Mar",2496
+2014,"St. Luke's General Hospital Kilkenny","Apr",2340
+2014,"St. Luke's General Hospital Kilkenny","May",2540
+2014,"St. Luke's General Hospital Kilkenny","Jun",2755
+2014,"St. Luke's General Hospital Kilkenny","Jul",2763
+2014,"St. Luke's General Hospital Kilkenny","Aug",2550
+2014,"St. Luke's General Hospital Kilkenny","Sep",2563
+2014,"St. Luke's General Hospital Kilkenny","Oct",2569
+2014,"St. Luke's General Hospital Kilkenny","Nov",2425
+2014,"St. Luke's General Hospital Kilkenny","Dec",2401
+2014,"St. Michael's Hospital Dun Laoghaire","Jan",2536
+2014,"St. Michael's Hospital Dun Laoghaire","Feb",2596
+2014,"St. Michael's Hospital Dun Laoghaire","Mar",2575
+2014,"St. Michael's Hospital Dun Laoghaire","Apr",2603
+2014,"St. Michael's Hospital Dun Laoghaire","May",2626
+2014,"St. Michael's Hospital Dun Laoghaire","Jun",2622
+2014,"St. Michael's Hospital Dun Laoghaire","Jul",2459
+2014,"St. Michael's Hospital Dun Laoghaire","Aug",2430
+2014,"St. Michael's Hospital Dun Laoghaire","Sep",2367
+2014,"St. Michael's Hospital Dun Laoghaire","Oct",2307
+2014,"St. Michael's Hospital Dun Laoghaire","Nov",2313
+2014,"St. Michael's Hospital Dun Laoghaire","Dec",2281
+2014,"St. Vincent's University Hospital","Jan",10587
+2014,"St. Vincent's University Hospital","Feb",11079
+2014,"St. Vincent's University Hospital","Mar",11689
+2014,"St. Vincent's University Hospital","Apr",11802
+2014,"St. Vincent's University Hospital","May",11864
+2014,"St. Vincent's University Hospital","Jun",12316
+2014,"St. Vincent's University Hospital","Jul",12871
+2014,"St. Vincent's University Hospital","Aug",12635
+2014,"St. Vincent's University Hospital","Sep",12894
+2014,"St. Vincent's University Hospital","Oct",13149
+2014,"St. Vincent's University Hospital","Nov",13409
+2014,"St. Vincent's University Hospital","Dec",13153
+2014,"Tallaght Hospital","Jan",21782
+2014,"Tallaght Hospital","Feb",23088
+2014,"Tallaght Hospital","Mar",24407
+2014,"Tallaght Hospital","Apr",26804
+2014,"Tallaght Hospital","May",28012
+2014,"Tallaght Hospital","Jun",28500
+2014,"Tallaght Hospital","Jul",29202
+2014,"Tallaght Hospital","Aug",28620
+2014,"Tallaght Hospital","Sep",28990
+2014,"Tallaght Hospital","Oct",29403
+2014,"Tallaght Hospital","Nov",29223
+2014,"Tallaght Hospital","Dec",29255
+2014,"University Hospital Limerick","Jan",11619
+2014,"University Hospital Limerick","Feb",12039
+2014,"University Hospital Limerick","Mar",12333
+2014,"University Hospital Limerick","Apr",12755
+2014,"University Hospital Limerick","May",13263
+2014,"University Hospital Limerick","Jun",13907
+2014,"University Hospital Limerick","Jul",14433
+2014,"University Hospital Limerick","Aug",14770
+2014,"University Hospital Limerick","Sep",15027
+2014,"University Hospital Limerick","Oct",14797
+2014,"University Hospital Limerick","Nov",14981
+2014,"University Hospital Limerick","Dec",15072
+2014,"University Hospital Waterford","Jan",17234
+2014,"University Hospital Waterford","Feb",18808
+2014,"University Hospital Waterford","Mar",20248
+2014,"University Hospital Waterford","Apr",21314
+2014,"University Hospital Waterford","May",22365
+2014,"University Hospital Waterford","Jun",22246
+2014,"University Hospital Waterford","Jul",25066
+2014,"University Hospital Waterford","Aug",24028
+2014,"University Hospital Waterford","Sep",25109
+2014,"University Hospital Waterford","Oct",25860
+2014,"University Hospital Waterford","Nov",26157
+2014,"University Hospital Waterford","Dec",25207
+2014,"Wexford General Hospital","Jan",2822
+2014,"Wexford General Hospital","Feb",2904
+2014,"Wexford General Hospital","Mar",2359
+2014,"Wexford General Hospital","Apr",2806
+2014,"Wexford General Hospital","May",2731
+2014,"Wexford General Hospital","Jun",2782
+2014,"Wexford General Hospital","Jul",2807
+2014,"Wexford General Hospital","Aug",2633
+2014,"Wexford General Hospital","Sep",2580
+2014,"Wexford General Hospital","Oct",2575
+2014,"Wexford General Hospital","Nov",2572
+2014,"Wexford General Hospital","Dec",2583
+2015,"Bantry General Hospital","Jan",1818
+2015,"Bantry General Hospital","Feb",1792
+2015,"Bantry General Hospital","Mar",1866
+2015,"Bantry General Hospital","Apr",2059
+2015,"Bantry General Hospital","May",2100
+2015,"Bantry General Hospital","Jun",1411
+2015,"Bantry General Hospital","Jul",1385
+2015,"Bantry General Hospital","Aug",1478
+2015,"Bantry General Hospital","Sep",1457
+2015,"Bantry General Hospital","Oct",1579
+2015,"Bantry General Hospital","Nov",1563
+2015,"Bantry General Hospital","Dec",1545
+2015,"Beaumont Hospital","Jan",23782
+2015,"Beaumont Hospital","Feb",23723
+2015,"Beaumont Hospital","Mar",23676
+2015,"Beaumont Hospital","Apr",24615
+2015,"Beaumont Hospital","May",24276
+2015,"Beaumont Hospital","Jun",24592
+2015,"Beaumont Hospital","Jul",25097
+2015,"Beaumont Hospital","Aug",25493
+2015,"Beaumont Hospital","Sep",25588
+2015,"Beaumont Hospital","Oct",25248
+2015,"Beaumont Hospital","Nov",24903
+2015,"Beaumont Hospital","Dec",24309
+2015,"Cappagh National Orthopaedic Hospital","Jan",1495
+2015,"Cappagh National Orthopaedic Hospital","Feb",1640
+2015,"Cappagh National Orthopaedic Hospital","Mar",1601
+2015,"Cappagh National Orthopaedic Hospital","Apr",1588
+2015,"Cappagh National Orthopaedic Hospital","May",1422
+2015,"Cappagh National Orthopaedic Hospital","Jun",1480
+2015,"Cappagh National Orthopaedic Hospital","Jul",1692
+2015,"Cappagh National Orthopaedic Hospital","Aug",1717
+2015,"Cappagh National Orthopaedic Hospital","Sep",1758
+2015,"Cappagh National Orthopaedic Hospital","Oct",1794
+2015,"Cappagh National Orthopaedic Hospital","Nov",1593
+2015,"Cappagh National Orthopaedic Hospital","Dec",1547
+2015,"Cavan General Hospital","Jan",7498
+2015,"Cavan General Hospital","Feb",7459
+2015,"Cavan General Hospital","Mar",7442
+2015,"Cavan General Hospital","Apr",7629
+2015,"Cavan General Hospital","May",7630
+2015,"Cavan General Hospital","Jun",7413
+2015,"Cavan General Hospital","Jul",7789
+2015,"Cavan General Hospital","Aug",7622
+2015,"Cavan General Hospital","Sep",7420
+2015,"Cavan General Hospital","Oct",7247
+2015,"Cavan General Hospital","Nov",7138
+2015,"Cavan General Hospital","Dec",7121
+2015,"Childrens University Hospital Temple Street","Jan",11693
+2015,"Childrens University Hospital Temple Street","Feb",11662
+2015,"Childrens University Hospital Temple Street","Mar",12915
+2015,"Childrens University Hospital Temple Street","Apr",12459
+2015,"Childrens University Hospital Temple Street","May",12703
+2015,"Childrens University Hospital Temple Street","Jun",12556
+2015,"Childrens University Hospital Temple Street","Jul",12362
+2015,"Childrens University Hospital Temple Street","Aug",11589
+2015,"Childrens University Hospital Temple Street","Sep",11189
+2015,"Childrens University Hospital Temple Street","Oct",11139
+2015,"Childrens University Hospital Temple Street","Nov",10911
+2015,"Childrens University Hospital Temple Street","Dec",10546
+2015,"Connolly Hospital","Jan",9335
+2015,"Connolly Hospital","Feb",9563
+2015,"Connolly Hospital","Mar",9810
+2015,"Connolly Hospital","Apr",9852
+2015,"Connolly Hospital","May",10155
+2015,"Connolly Hospital","Jun",10225
+2015,"Connolly Hospital","Jul",9664
+2015,"Connolly Hospital","Aug",10055
+2015,"Connolly Hospital","Sep",10473
+2015,"Connolly Hospital","Oct",10420
+2015,"Connolly Hospital","Nov",10535
+2015,"Connolly Hospital","Dec",10480
+2015,"Cork University Hospital","Jan",24614
+2015,"Cork University Hospital","Feb",25171
+2015,"Cork University Hospital","Mar",25956
+2015,"Cork University Hospital","Apr",25517
+2015,"Cork University Hospital","May",25904
+2015,"Cork University Hospital","Jun",24664
+2015,"Cork University Hospital","Jul",25350
+2015,"Cork University Hospital","Aug",24507
+2015,"Cork University Hospital","Sep",23778
+2015,"Cork University Hospital","Oct",22636
+2015,"Cork University Hospital","Nov",22774
+2015,"Cork University Hospital","Dec",23391
+2015,"Croom Orthopaedic Hospital","Jan",3651
+2015,"Croom Orthopaedic Hospital","Feb",3735
+2015,"Croom Orthopaedic Hospital","Mar",3824
+2015,"Croom Orthopaedic Hospital","Apr",3954
+2015,"Croom Orthopaedic Hospital","May",4042
+2015,"Croom Orthopaedic Hospital","Jun",4067
+2015,"Croom Orthopaedic Hospital","Jul",4198
+2015,"Croom Orthopaedic Hospital","Aug",4243
+2015,"Croom Orthopaedic Hospital","Sep",4144
+2015,"Croom Orthopaedic Hospital","Oct",4267
+2015,"Croom Orthopaedic Hospital","Nov",4201
+2015,"Croom Orthopaedic Hospital","Dec",3839
+2015,"Ennis Hospital","Jan",2602
+2015,"Ennis Hospital","Feb",2555
+2015,"Ennis Hospital","Mar",2382
+2015,"Ennis Hospital","Apr",2344
+2015,"Ennis Hospital","May",2204
+2015,"Ennis Hospital","Jun",2135
+2015,"Ennis Hospital","Jul",2204
+2015,"Ennis Hospital","Aug",2288
+2015,"Ennis Hospital","Sep",2152
+2015,"Ennis Hospital","Oct",2114
+2015,"Ennis Hospital","Nov",2115
+2015,"Ennis Hospital","Dec",1990
+2015,"Galway University Hospital","Jan",34575
+2015,"Galway University Hospital","Feb",35703
+2015,"Galway University Hospital","Mar",36205
+2015,"Galway University Hospital","Apr",37337
+2015,"Galway University Hospital","May",36888
+2015,"Galway University Hospital","Jun",37231
+2015,"Galway University Hospital","Jul",36475
+2015,"Galway University Hospital","Aug",36817
+2015,"Galway University Hospital","Sep",35422
+2015,"Galway University Hospital","Oct",34870
+2015,"Galway University Hospital","Nov",31534
+2015,"Galway University Hospital","Dec",29269
+2015,"Kerry General Hospital","Jan",7970
+2015,"Kerry General Hospital","Feb",7734
+2015,"Kerry General Hospital","Mar",7811
+2015,"Kerry General Hospital","Apr",7797
+2015,"Kerry General Hospital","May",7710
+2015,"Kerry General Hospital","Jun",7631
+2015,"Kerry General Hospital","Jul",7689
+2015,"Kerry General Hospital","Aug",7863
+2015,"Kerry General Hospital","Sep",7808
+2015,"Kerry General Hospital","Oct",7666
+2015,"Kerry General Hospital","Nov",7687
+2015,"Kerry General Hospital","Dec",6924
+2015,"Letterkenny General Hospital","Jan",16035
+2015,"Letterkenny General Hospital","Feb",15867
+2015,"Letterkenny General Hospital","Mar",15988
+2015,"Letterkenny General Hospital","Apr",16221
+2015,"Letterkenny General Hospital","May",16365
+2015,"Letterkenny General Hospital","Jun",14241
+2015,"Letterkenny General Hospital","Jul",14654
+2015,"Letterkenny General Hospital","Aug",14880
+2015,"Letterkenny General Hospital","Sep",14877
+2015,"Letterkenny General Hospital","Oct",14696
+2015,"Letterkenny General Hospital","Nov",13950
+2015,"Letterkenny General Hospital","Dec",13064
+2015,"Louth County Hospital","Jan",2054
+2015,"Louth County Hospital","Feb",1875
+2015,"Louth County Hospital","Mar",1976
+2015,"Louth County Hospital","Apr",2062
+2015,"Louth County Hospital","May",2146
+2015,"Louth County Hospital","Jun",2294
+2015,"Louth County Hospital","Jul",2350
+2015,"Louth County Hospital","Aug",2428
+2015,"Louth County Hospital","Sep",2477
+2015,"Louth County Hospital","Oct",2281
+2015,"Louth County Hospital","Nov",2271
+2015,"Louth County Hospital","Dec",2153
+2015,"Mallow General Hospital","Jan",2505
+2015,"Mallow General Hospital","Feb",2516
+2015,"Mallow General Hospital","Mar",2597
+2015,"Mallow General Hospital","Apr",2703
+2015,"Mallow General Hospital","May",2673
+2015,"Mallow General Hospital","Jun",2494
+2015,"Mallow General Hospital","Jul",2579
+2015,"Mallow General Hospital","Aug",2639
+2015,"Mallow General Hospital","Sep",2682
+2015,"Mallow General Hospital","Oct",2744
+2015,"Mallow General Hospital","Nov",2556
+2015,"Mallow General Hospital","Dec",2472
+2015,"Mater Misericordiae University Hospital","Jan",21992
+2015,"Mater Misericordiae University Hospital","Feb",22334
+2015,"Mater Misericordiae University Hospital","Mar",22621
+2015,"Mater Misericordiae University Hospital","Apr",23197
+2015,"Mater Misericordiae University Hospital","May",23566
+2015,"Mater Misericordiae University Hospital","Jun",22359
+2015,"Mater Misericordiae University Hospital","Jul",23025
+2015,"Mater Misericordiae University Hospital","Aug",23377
+2015,"Mater Misericordiae University Hospital","Sep",23820
+2015,"Mater Misericordiae University Hospital","Oct",24444
+2015,"Mater Misericordiae University Hospital","Nov",23920
+2015,"Mater Misericordiae University Hospital","Dec",22462
+2015,"Mayo General Hospital","Jan",5706
+2015,"Mayo General Hospital","Feb",5736
+2015,"Mayo General Hospital","Mar",5985
+2015,"Mayo General Hospital","Apr",6150
+2015,"Mayo General Hospital","May",5908
+2015,"Mayo General Hospital","Jun",5948
+2015,"Mayo General Hospital","Jul",5858
+2015,"Mayo General Hospital","Aug",5436
+2015,"Mayo General Hospital","Sep",5659
+2015,"Mayo General Hospital","Oct",5842
+2015,"Mayo General Hospital","Nov",5369
+2015,"Mayo General Hospital","Dec",5281
+2015,"Mercy University Hospital","Jan",5605
+2015,"Mercy University Hospital","Feb",5451
+2015,"Mercy University Hospital","Mar",5547
+2015,"Mercy University Hospital","Apr",5751
+2015,"Mercy University Hospital","May",6062
+2015,"Mercy University Hospital","Jun",6059
+2015,"Mercy University Hospital","Jul",5890
+2015,"Mercy University Hospital","Aug",6156
+2015,"Mercy University Hospital","Sep",6114
+2015,"Mercy University Hospital","Oct",5520
+2015,"Mercy University Hospital","Nov",5163
+2015,"Mercy University Hospital","Dec",5145
+2015,"Midland Regional Hospital Mullingar","Jan",6701
+2015,"Midland Regional Hospital Mullingar","Feb",6746
+2015,"Midland Regional Hospital Mullingar","Mar",5458
+2015,"Midland Regional Hospital Mullingar","Apr",5802
+2015,"Midland Regional Hospital Mullingar","May",6235
+2015,"Midland Regional Hospital Mullingar","Jun",5714
+2015,"Midland Regional Hospital Mullingar","Jul",5874
+2015,"Midland Regional Hospital Mullingar","Aug",6095
+2015,"Midland Regional Hospital Mullingar","Sep",6486
+2015,"Midland Regional Hospital Mullingar","Oct",6626
+2015,"Midland Regional Hospital Mullingar","Nov",6473
+2015,"Midland Regional Hospital Mullingar","Dec",6104
+2015,"Midland Regional Hospital Portlaoise","Jan",3276
+2015,"Midland Regional Hospital Portlaoise","Feb",3406
+2015,"Midland Regional Hospital Portlaoise","Mar",3688
+2015,"Midland Regional Hospital Portlaoise","Apr",3703
+2015,"Midland Regional Hospital Portlaoise","May",3758
+2015,"Midland Regional Hospital Portlaoise","Jun",3996
+2015,"Midland Regional Hospital Portlaoise","Jul",3857
+2015,"Midland Regional Hospital Portlaoise","Aug",3968
+2015,"Midland Regional Hospital Portlaoise","Sep",3690
+2015,"Midland Regional Hospital Portlaoise","Oct",3357
+2015,"Midland Regional Hospital Portlaoise","Nov",3438
+2015,"Midland Regional Hospital Portlaoise","Dec",3285
+2015,"Midland Regional Hospital Tullamore","Jan",12230
+2015,"Midland Regional Hospital Tullamore","Feb",12303
+2015,"Midland Regional Hospital Tullamore","Mar",12605
+2015,"Midland Regional Hospital Tullamore","Apr",12982
+2015,"Midland Regional Hospital Tullamore","May",13305
+2015,"Midland Regional Hospital Tullamore","Jun",12919
+2015,"Midland Regional Hospital Tullamore","Jul",12948
+2015,"Midland Regional Hospital Tullamore","Aug",13049
+2015,"Midland Regional Hospital Tullamore","Sep",13145
+2015,"Midland Regional Hospital Tullamore","Oct",13206
+2015,"Midland Regional Hospital Tullamore","Nov",13320
+2015,"Midland Regional Hospital Tullamore","Dec",13024
+2015,"Naas General Hospital","Jan",4897
+2015,"Naas General Hospital","Feb",5034
+2015,"Naas General Hospital","Mar",5118
+2015,"Naas General Hospital","Apr",5135
+2015,"Naas General Hospital","May",5103
+2015,"Naas General Hospital","Jun",5461
+2015,"Naas General Hospital","Jul",5410
+2015,"Naas General Hospital","Aug",5549
+2015,"Naas General Hospital","Sep",5425
+2015,"Naas General Hospital","Oct",5424
+2015,"Naas General Hospital","Nov",5313
+2015,"Naas General Hospital","Dec",5094
+2015,"Nenagh Hospital","Jan",1792
+2015,"Nenagh Hospital","Feb",1782
+2015,"Nenagh Hospital","Mar",1776
+2015,"Nenagh Hospital","Apr",1876
+2015,"Nenagh Hospital","May",1933
+2015,"Nenagh Hospital","Jun",1979
+2015,"Nenagh Hospital","Jul",1940
+2015,"Nenagh Hospital","Aug",1927
+2015,"Nenagh Hospital","Sep",1819
+2015,"Nenagh Hospital","Oct",1875
+2015,"Nenagh Hospital","Nov",1990
+2015,"Nenagh Hospital","Dec",1720
+2015,"Our Lady of Lourdes Hospital Drogheda","Jan",11176
+2015,"Our Lady of Lourdes Hospital Drogheda","Feb",11256
+2015,"Our Lady of Lourdes Hospital Drogheda","Mar",11318
+2015,"Our Lady of Lourdes Hospital Drogheda","Apr",11386
+2015,"Our Lady of Lourdes Hospital Drogheda","May",11525
+2015,"Our Lady of Lourdes Hospital Drogheda","Jun",11699
+2015,"Our Lady of Lourdes Hospital Drogheda","Jul",11855
+2015,"Our Lady of Lourdes Hospital Drogheda","Aug",11675
+2015,"Our Lady of Lourdes Hospital Drogheda","Sep",11373
+2015,"Our Lady of Lourdes Hospital Drogheda","Oct",11191
+2015,"Our Lady of Lourdes Hospital Drogheda","Nov",10942
+2015,"Our Lady of Lourdes Hospital Drogheda","Dec",10828
+2015,"Our Lady's Children's Hospital Crumlin","Jan",12172
+2015,"Our Lady's Children's Hospital Crumlin","Feb",12286
+2015,"Our Lady's Children's Hospital Crumlin","Mar",12342
+2015,"Our Lady's Children's Hospital Crumlin","Apr",12531
+2015,"Our Lady's Children's Hospital Crumlin","May",12694
+2015,"Our Lady's Children's Hospital Crumlin","Jun",12497
+2015,"Our Lady's Children's Hospital Crumlin","Jul",12702
+2015,"Our Lady's Children's Hospital Crumlin","Aug",12627
+2015,"Our Lady's Children's Hospital Crumlin","Sep",12516
+2015,"Our Lady's Children's Hospital Crumlin","Oct",12502
+2015,"Our Lady's Children's Hospital Crumlin","Nov",12270
+2015,"Our Lady's Children's Hospital Crumlin","Dec",11909
+2015,"Our Lady's Hospital Navan","Jan",3954
+2015,"Our Lady's Hospital Navan","Feb",4017
+2015,"Our Lady's Hospital Navan","Mar",4063
+2015,"Our Lady's Hospital Navan","Apr",4160
+2015,"Our Lady's Hospital Navan","May",4201
+2015,"Our Lady's Hospital Navan","Jun",4208
+2015,"Our Lady's Hospital Navan","Jul",4354
+2015,"Our Lady's Hospital Navan","Aug",4441
+2015,"Our Lady's Hospital Navan","Sep",4460
+2015,"Our Lady's Hospital Navan","Oct",4251
+2015,"Our Lady's Hospital Navan","Nov",4292
+2015,"Our Lady's Hospital Navan","Dec",4186
+2015,"Portiuncula Hospital","Jan",3139
+2015,"Portiuncula Hospital","Feb",3165
+2015,"Portiuncula Hospital","Mar",3265
+2015,"Portiuncula Hospital","Apr",3227
+2015,"Portiuncula Hospital","May",3089
+2015,"Portiuncula Hospital","Jun",3007
+2015,"Portiuncula Hospital","Jul",2997
+2015,"Portiuncula Hospital","Aug",3016
+2015,"Portiuncula Hospital","Sep",3191
+2015,"Portiuncula Hospital","Oct",3188
+2015,"Portiuncula Hospital","Nov",3098
+2015,"Portiuncula Hospital","Dec",3157
+2015,"Roscommon Hospital","Jan",2087
+2015,"Roscommon Hospital","Feb",2140
+2015,"Roscommon Hospital","Mar",2309
+2015,"Roscommon Hospital","Apr",2170
+2015,"Roscommon Hospital","May",2175
+2015,"Roscommon Hospital","Jun",2306
+2015,"Roscommon Hospital","Jul",2164
+2015,"Roscommon Hospital","Aug",2198
+2015,"Roscommon Hospital","Sep",2215
+2015,"Roscommon Hospital","Oct",2383
+2015,"Roscommon Hospital","Nov",2201
+2015,"Roscommon Hospital","Dec",2123
+2015,"Rotunda Hospital","Aug",2070
+2015,"Rotunda Hospital","Sep",2089
+2015,"Rotunda Hospital","Oct",1741
+2015,"Rotunda Hospital","Nov",1679
+2015,"Rotunda Hospital","Dec",1663
+2015,"Royal Victoria Eye and Ear Hospital","Jan",8848
+2015,"Royal Victoria Eye and Ear Hospital","Feb",8983
+2015,"Royal Victoria Eye and Ear Hospital","Mar",9289
+2015,"Royal Victoria Eye and Ear Hospital","Apr",9582
+2015,"Royal Victoria Eye and Ear Hospital","May",9692
+2015,"Royal Victoria Eye and Ear Hospital","Jun",9422
+2015,"Royal Victoria Eye and Ear Hospital","Jul",8495
+2015,"Royal Victoria Eye and Ear Hospital","Aug",7619
+2015,"Royal Victoria Eye and Ear Hospital","Sep",7599
+2015,"Royal Victoria Eye and Ear Hospital","Oct",7301
+2015,"Royal Victoria Eye and Ear Hospital","Nov",7284
+2015,"Royal Victoria Eye and Ear Hospital","Dec",7165
+2015,"Sligo Regional Hospital","Jan",11949
+2015,"Sligo Regional Hospital","Feb",12473
+2015,"Sligo Regional Hospital","Mar",12467
+2015,"Sligo Regional Hospital","Apr",12704
+2015,"Sligo Regional Hospital","May",12616
+2015,"Sligo Regional Hospital","Jun",12157
+2015,"Sligo Regional Hospital","Jul",12136
+2015,"Sligo Regional Hospital","Aug",12211
+2015,"Sligo Regional Hospital","Sep",12182
+2015,"Sligo Regional Hospital","Oct",11370
+2015,"Sligo Regional Hospital","Nov",10764
+2015,"Sligo Regional Hospital","Dec",10524
+2015,"South Infirmary Victoria University Hospital","Jan",19736
+2015,"South Infirmary Victoria University Hospital","Feb",20099
+2015,"South Infirmary Victoria University Hospital","Mar",20216
+2015,"South Infirmary Victoria University Hospital","Apr",20761
+2015,"South Infirmary Victoria University Hospital","May",21344
+2015,"South Infirmary Victoria University Hospital","Jun",19068
+2015,"South Infirmary Victoria University Hospital","Jul",19454
+2015,"South Infirmary Victoria University Hospital","Aug",19825
+2015,"South Infirmary Victoria University Hospital","Sep",20183
+2015,"South Infirmary Victoria University Hospital","Oct",19956
+2015,"South Infirmary Victoria University Hospital","Nov",17308
+2015,"South Infirmary Victoria University Hospital","Dec",17760
+2015,"South Tipperary General Hospital","Jan",2928
+2015,"South Tipperary General Hospital","Feb",3074
+2015,"South Tipperary General Hospital","Mar",3220
+2015,"South Tipperary General Hospital","Apr",3316
+2015,"South Tipperary General Hospital","May",3338
+2015,"South Tipperary General Hospital","Jun",3518
+2015,"South Tipperary General Hospital","Jul",3721
+2015,"South Tipperary General Hospital","Aug",3599
+2015,"South Tipperary General Hospital","Sep",3675
+2015,"South Tipperary General Hospital","Oct",3835
+2015,"South Tipperary General Hospital","Nov",3619
+2015,"South Tipperary General Hospital","Dec",3608
+2015,"St. Columcille's Hospital","Jan",2247
+2015,"St. Columcille's Hospital","Feb",2348
+2015,"St. Columcille's Hospital","Mar",2246
+2015,"St. Columcille's Hospital","Apr",2283
+2015,"St. Columcille's Hospital","May",2383
+2015,"St. Columcille's Hospital","Jun",2456
+2015,"St. Columcille's Hospital","Jul",2375
+2015,"St. Columcille's Hospital","Aug",2463
+2015,"St. Columcille's Hospital","Sep",2512
+2015,"St. Columcille's Hospital","Oct",2565
+2015,"St. Columcille's Hospital","Nov",2564
+2015,"St. Columcille's Hospital","Dec",2693
+2015,"St. James's Hospital","Jan",11295
+2015,"St. James's Hospital","Feb",11287
+2015,"St. James's Hospital","Mar",11587
+2015,"St. James's Hospital","Apr",12008
+2015,"St. James's Hospital","May",12404
+2015,"St. James's Hospital","Jun",12804
+2015,"St. James's Hospital","Jul",13433
+2015,"St. James's Hospital","Aug",13590
+2015,"St. James's Hospital","Sep",13607
+2015,"St. James's Hospital","Oct",13842
+2015,"St. James's Hospital","Nov",13698
+2015,"St. James's Hospital","Dec",13567
+2015,"St. John's Hospital Limerick","Jan",1211
+2015,"St. John's Hospital Limerick","Feb",1192
+2015,"St. John's Hospital Limerick","Mar",1210
+2015,"St. John's Hospital Limerick","Apr",1162
+2015,"St. John's Hospital Limerick","May",1152
+2015,"St. John's Hospital Limerick","Jun",1173
+2015,"St. John's Hospital Limerick","Jul",1263
+2015,"St. John's Hospital Limerick","Aug",1212
+2015,"St. John's Hospital Limerick","Sep",1211
+2015,"St. John's Hospital Limerick","Oct",1161
+2015,"St. John's Hospital Limerick","Nov",1198
+2015,"St. John's Hospital Limerick","Dec",1214
+2015,"St. Luke's General Hospital Kilkenny","Jan",2674
+2015,"St. Luke's General Hospital Kilkenny","Feb",2467
+2015,"St. Luke's General Hospital Kilkenny","Mar",2386
+2015,"St. Luke's General Hospital Kilkenny","Apr",2457
+2015,"St. Luke's General Hospital Kilkenny","May",2538
+2015,"St. Luke's General Hospital Kilkenny","Jun",2586
+2015,"St. Luke's General Hospital Kilkenny","Jul",2517
+2015,"St. Luke's General Hospital Kilkenny","Aug",2771
+2015,"St. Luke's General Hospital Kilkenny","Sep",2626
+2015,"St. Luke's General Hospital Kilkenny","Oct",2740
+2015,"St. Luke's General Hospital Kilkenny","Nov",2813
+2015,"St. Luke's General Hospital Kilkenny","Dec",2526
+2015,"St. Michael's Hospital Dun Laoghaire","Jan",2251
+2015,"St. Michael's Hospital Dun Laoghaire","Feb",2241
+2015,"St. Michael's Hospital Dun Laoghaire","Mar",2160
+2015,"St. Michael's Hospital Dun Laoghaire","Apr",2117
+2015,"St. Michael's Hospital Dun Laoghaire","May",2104
+2015,"St. Michael's Hospital Dun Laoghaire","Jun",2195
+2015,"St. Michael's Hospital Dun Laoghaire","Jul",2249
+2015,"St. Michael's Hospital Dun Laoghaire","Aug",2208
+2015,"St. Michael's Hospital Dun Laoghaire","Sep",2189
+2015,"St. Michael's Hospital Dun Laoghaire","Oct",2228
+2015,"St. Michael's Hospital Dun Laoghaire","Nov",2222
+2015,"St. Michael's Hospital Dun Laoghaire","Dec",2214
+2015,"St. Vincent's University Hospital","Jan",13711
+2015,"St. Vincent's University Hospital","Feb",14002
+2015,"St. Vincent's University Hospital","Mar",14071
+2015,"St. Vincent's University Hospital","Apr",14377
+2015,"St. Vincent's University Hospital","May",14443
+2015,"St. Vincent's University Hospital","Jun",14749
+2015,"St. Vincent's University Hospital","Jul",15036
+2015,"St. Vincent's University Hospital","Aug",15351
+2015,"St. Vincent's University Hospital","Sep",14901
+2015,"St. Vincent's University Hospital","Oct",15089
+2015,"St. Vincent's University Hospital","Nov",15306
+2015,"St. Vincent's University Hospital","Dec",15564
+2015,"Tallaght Children's Hospital","Jul",5862
+2015,"Tallaght Children's Hospital","Aug",5876
+2015,"Tallaght Children's Hospital","Sep",5591
+2015,"Tallaght Children's Hospital","Oct",5248
+2015,"Tallaght Children's Hospital","Nov",5100
+2015,"Tallaght Children's Hospital","Dec",5266
+2015,"Tallaght Hospital","Jan",29558
+2015,"Tallaght Hospital","Feb",29960
+2015,"Tallaght Hospital","Mar",30614
+2015,"Tallaght Hospital","Apr",30713
+2015,"Tallaght Hospital","May",30562
+2015,"Tallaght Hospital","Jun",30869
+2015,"Tallaght Hospital","Jul",21139
+2015,"Tallaght Hospital","Aug",21510
+2015,"Tallaght Hospital","Sep",21209
+2015,"Tallaght Hospital","Oct",19487
+2015,"Tallaght Hospital","Nov",18865
+2015,"Tallaght Hospital","Dec",18910
+2015,"University Hospital Limerick","Jan",15762
+2015,"University Hospital Limerick","Feb",15657
+2015,"University Hospital Limerick","Mar",15804
+2015,"University Hospital Limerick","Apr",16596
+2015,"University Hospital Limerick","May",16885
+2015,"University Hospital Limerick","Jun",17292
+2015,"University Hospital Limerick","Jul",17487
+2015,"University Hospital Limerick","Aug",17487
+2015,"University Hospital Limerick","Sep",18211
+2015,"University Hospital Limerick","Oct",18138
+2015,"University Hospital Limerick","Nov",18703
+2015,"University Hospital Limerick","Dec",18030
+2015,"University Hospital Waterford","Jan",26580
+2015,"University Hospital Waterford","Feb",26261
+2015,"University Hospital Waterford","Mar",27222
+2015,"University Hospital Waterford","Apr",27156
+2015,"University Hospital Waterford","May",26553
+2015,"University Hospital Waterford","Jun",20224
+2015,"University Hospital Waterford","Jul",20608
+2015,"University Hospital Waterford","Aug",20428
+2015,"University Hospital Waterford","Sep",19581
+2015,"University Hospital Waterford","Oct",20296
+2015,"University Hospital Waterford","Nov",19690
+2015,"University Hospital Waterford","Dec",18664
+2015,"Wexford General Hospital","Jan",2616
+2015,"Wexford General Hospital","Feb",2704
+2015,"Wexford General Hospital","Mar",2865
+2015,"Wexford General Hospital","Apr",2983
+2015,"Wexford General Hospital","May",2992
+2015,"Wexford General Hospital","Jun",3057
+2015,"Wexford General Hospital","Jul",2923
+2015,"Wexford General Hospital","Aug",2967
+2015,"Wexford General Hospital","Sep",2992
+2015,"Wexford General Hospital","Oct",3064
+2015,"Wexford General Hospital","Nov",3174
+2015,"Wexford General Hospital","Dec",3104
+2016,"Bantry General Hospital","Jan",1503
+2016,"Bantry General Hospital","Feb",1579
+2016,"Bantry General Hospital","Mar",1599
+2016,"Bantry General Hospital","Apr",1637
+2016,"Bantry General Hospital","May",1574
+2016,"Bantry General Hospital","Jun",1578
+2016,"Bantry General Hospital","Jul",1388
+2016,"Bantry General Hospital","Aug",1346
+2016,"Bantry General Hospital","Sep",1347
+2016,"Bantry General Hospital","Oct",1429
+2016,"Bantry General Hospital","Nov",1379
+2016,"Bantry General Hospital","Dec",1277
+2016,"Beaumont Hospital","Jan",24933
+2016,"Beaumont Hospital","Feb",25568
+2016,"Beaumont Hospital","Mar",26255
+2016,"Beaumont Hospital","Apr",26715
+2016,"Beaumont Hospital","May",26736
+2016,"Beaumont Hospital","Jun",26640
+2016,"Beaumont Hospital","Jul",26663
+2016,"Beaumont Hospital","Aug",26977
+2016,"Beaumont Hospital","Sep",27284
+2016,"Beaumont Hospital","Oct",27590
+2016,"Beaumont Hospital","Nov",27584
+2016,"Beaumont Hospital","Dec",24410
+2016,"Cappagh National Orthopaedic Hospital","Jan",1479
+2016,"Cappagh National Orthopaedic Hospital","Feb",1390
+2016,"Cappagh National Orthopaedic Hospital","Mar",1315
+2016,"Cappagh National Orthopaedic Hospital","Apr",1251
+2016,"Cappagh National Orthopaedic Hospital","May",1272
+2016,"Cappagh National Orthopaedic Hospital","Jun",1314
+2016,"Cappagh National Orthopaedic Hospital","Jul",1378
+2016,"Cappagh National Orthopaedic Hospital","Aug",1459
+2016,"Cappagh National Orthopaedic Hospital","Sep",1473
+2016,"Cappagh National Orthopaedic Hospital","Oct",1553
+2016,"Cappagh National Orthopaedic Hospital","Nov",1515
+2016,"Cappagh National Orthopaedic Hospital","Dec",1476
+2016,"Cavan General Hospital","Jan",7340
+2016,"Cavan General Hospital","Feb",7297
+2016,"Cavan General Hospital","Mar",7737
+2016,"Cavan General Hospital","Apr",7991
+2016,"Cavan General Hospital","May",7901
+2016,"Cavan General Hospital","Jun",8016
+2016,"Cavan General Hospital","Jul",8168
+2016,"Cavan General Hospital","Aug",8277
+2016,"Cavan General Hospital","Sep",8131
+2016,"Cavan General Hospital","Oct",8186
+2016,"Cavan General Hospital","Nov",8323
+2016,"Cavan General Hospital","Dec",8452
+2016,"Childrens University Hospital Temple Street","Jan",10683
+2016,"Childrens University Hospital Temple Street","Feb",11036
+2016,"Childrens University Hospital Temple Street","Mar",11329
+2016,"Childrens University Hospital Temple Street","Apr",11757
+2016,"Childrens University Hospital Temple Street","May",12856
+2016,"Childrens University Hospital Temple Street","Jun",13203
+2016,"Childrens University Hospital Temple Street","Jul",13639
+2016,"Childrens University Hospital Temple Street","Aug",13844
+2016,"Childrens University Hospital Temple Street","Sep",13955
+2016,"Childrens University Hospital Temple Street","Oct",14182
+2016,"Childrens University Hospital Temple Street","Nov",14552
+2016,"Childrens University Hospital Temple Street","Dec",14903
+2016,"Connolly Hospital","Jan",10750
+2016,"Connolly Hospital","Feb",10870
+2016,"Connolly Hospital","Mar",11085
+2016,"Connolly Hospital","Apr",11363
+2016,"Connolly Hospital","May",11695
+2016,"Connolly Hospital","Jun",11759
+2016,"Connolly Hospital","Jul",11861
+2016,"Connolly Hospital","Aug",11724
+2016,"Connolly Hospital","Sep",11767
+2016,"Connolly Hospital","Oct",10812
+2016,"Connolly Hospital","Nov",10644
+2016,"Connolly Hospital","Dec",10608
+2016,"Cork University Hospital","Jan",23693
+2016,"Cork University Hospital","Feb",24060
+2016,"Cork University Hospital","Mar",24179
+2016,"Cork University Hospital","Apr",24356
+2016,"Cork University Hospital","May",24763
+2016,"Cork University Hospital","Jun",25250
+2016,"Cork University Hospital","Jul",25488
+2016,"Cork University Hospital","Aug",25845
+2016,"Cork University Hospital","Sep",26320
+2016,"Cork University Hospital","Oct",26421
+2016,"Cork University Hospital","Nov",26613
+2016,"Cork University Hospital","Dec",27116
+2016,"Croom Orthopaedic Hospital","Jan",3947
+2016,"Croom Orthopaedic Hospital","Feb",4141
+2016,"Croom Orthopaedic Hospital","Mar",4247
+2016,"Croom Orthopaedic Hospital","Apr",4577
+2016,"Croom Orthopaedic Hospital","May",4777
+2016,"Croom Orthopaedic Hospital","Jun",4982
+2016,"Croom Orthopaedic Hospital","Jul",5052
+2016,"Croom Orthopaedic Hospital","Aug",5079
+2016,"Croom Orthopaedic Hospital","Sep",5190
+2016,"Croom Orthopaedic Hospital","Oct",5380
+2016,"Croom Orthopaedic Hospital","Nov",5504
+2016,"Croom Orthopaedic Hospital","Dec",5657
+2016,"Ennis Hospital","Jan",2024
+2016,"Ennis Hospital","Feb",1954
+2016,"Ennis Hospital","Mar",1986
+2016,"Ennis Hospital","Apr",1681
+2016,"Ennis Hospital","May",1816
+2016,"Ennis Hospital","Jun",1895
+2016,"Ennis Hospital","Jul",1954
+2016,"Ennis Hospital","Aug",2012
+2016,"Ennis Hospital","Sep",2009
+2016,"Ennis Hospital","Oct",2032
+2016,"Ennis Hospital","Nov",1902
+2016,"Ennis Hospital","Dec",1801
+2016,"Galway University Hospital","Jan",29691
+2016,"Galway University Hospital","Feb",30025
+2016,"Galway University Hospital","Mar",30454
+2016,"Galway University Hospital","Apr",31208
+2016,"Galway University Hospital","May",31417
+2016,"Galway University Hospital","Jun",31494
+2016,"Galway University Hospital","Jul",32354
+2016,"Galway University Hospital","Aug",32927
+2016,"Galway University Hospital","Sep",33211
+2016,"Galway University Hospital","Oct",33548
+2016,"Galway University Hospital","Nov",34293
+2016,"Galway University Hospital","Dec",34807
+2016,"Kerry General Hospital","Jan",6984
+2016,"Kerry General Hospital","Feb",7198
+2016,"Kerry General Hospital","Mar",7276
+2016,"Kerry General Hospital","Apr",7512
+2016,"Kerry General Hospital","May",7754
+2016,"Kerry General Hospital","Jun",8038
+2016,"Kerry General Hospital","Jul",8093
+2016,"Kerry General Hospital","Aug",8375
+2016,"Kerry General Hospital","Sep",8430
+2016,"Kerry General Hospital","Oct",8313
+2016,"Kerry General Hospital","Nov",8209
+2016,"Kerry General Hospital","Dec",8322
+2016,"Letterkenny General Hospital","Jan",13361
+2016,"Letterkenny General Hospital","Feb",13416
+2016,"Letterkenny General Hospital","Mar",13484
+2016,"Letterkenny General Hospital","Apr",13377
+2016,"Letterkenny General Hospital","May",13369
+2016,"Letterkenny General Hospital","Jun",13196
+2016,"Letterkenny General Hospital","Jul",13195
+2016,"Letterkenny General Hospital","Aug",12880
+2016,"Letterkenny General Hospital","Sep",12829
+2016,"Letterkenny General Hospital","Oct",12695
+2016,"Letterkenny General Hospital","Nov",12408
+2016,"Letterkenny General Hospital","Dec",12548
+2016,"Louth County Hospital","Jan",2290
+2016,"Louth County Hospital","Feb",2475
+2016,"Louth County Hospital","Mar",2631
+2016,"Louth County Hospital","Apr",2730
+2016,"Louth County Hospital","May",2732
+2016,"Louth County Hospital","Jun",2787
+2016,"Louth County Hospital","Jul",2933
+2016,"Louth County Hospital","Aug",2792
+2016,"Louth County Hospital","Sep",2656
+2016,"Louth County Hospital","Oct",2719
+2016,"Louth County Hospital","Nov",2633
+2016,"Louth County Hospital","Dec",2728
+2016,"Mallow General Hospital","Jan",2476
+2016,"Mallow General Hospital","Feb",2445
+2016,"Mallow General Hospital","Mar",2396
+2016,"Mallow General Hospital","Apr",2420
+2016,"Mallow General Hospital","May",2467
+2016,"Mallow General Hospital","Jun",2361
+2016,"Mallow General Hospital","Jul",2351
+2016,"Mallow General Hospital","Aug",2392
+2016,"Mallow General Hospital","Sep",2415
+2016,"Mallow General Hospital","Oct",2409
+2016,"Mallow General Hospital","Nov",2415
+2016,"Mallow General Hospital","Dec",2426
+2016,"Mater Misericordiae University Hospital","Jan",23710
+2016,"Mater Misericordiae University Hospital","Feb",23799
+2016,"Mater Misericordiae University Hospital","Mar",24597
+2016,"Mater Misericordiae University Hospital","Apr",25086
+2016,"Mater Misericordiae University Hospital","May",25519
+2016,"Mater Misericordiae University Hospital","Jun",24641
+2016,"Mater Misericordiae University Hospital","Jul",25504
+2016,"Mater Misericordiae University Hospital","Aug",27058
+2016,"Mater Misericordiae University Hospital","Sep",27183
+2016,"Mater Misericordiae University Hospital","Oct",26978
+2016,"Mater Misericordiae University Hospital","Nov",27124
+2016,"Mater Misericordiae University Hospital","Dec",26077
+2016,"Mayo General Hospital","Jan",5399
+2016,"Mayo General Hospital","Feb",5577
+2016,"Mayo General Hospital","Mar",5639
+2016,"Mayo General Hospital","Apr",6010
+2016,"Mayo General Hospital","May",6295
+2016,"Mayo General Hospital","Jun",6318
+2016,"Mayo General Hospital","Jul",6460
+2016,"Mayo General Hospital","Aug",6434
+2016,"Mayo General Hospital","Sep",6578
+2016,"Mayo General Hospital","Oct",6738
+2016,"Mayo General Hospital","Nov",6800
+2016,"Mayo General Hospital","Dec",6921
+2016,"Mercy University Hospital","Jan",5350
+2016,"Mercy University Hospital","Feb",5394
+2016,"Mercy University Hospital","Mar",5536
+2016,"Mercy University Hospital","Apr",5772
+2016,"Mercy University Hospital","May",5581
+2016,"Mercy University Hospital","Jun",5344
+2016,"Mercy University Hospital","Jul",5482
+2016,"Mercy University Hospital","Aug",5417
+2016,"Mercy University Hospital","Sep",5251
+2016,"Mercy University Hospital","Oct",5189
+2016,"Mercy University Hospital","Nov",5058
+2016,"Mercy University Hospital","Dec",5130
+2016,"Midland Regional Hospital Mullingar","Jan",6530
+2016,"Midland Regional Hospital Mullingar","Feb",6433
+2016,"Midland Regional Hospital Mullingar","Mar",5589
+2016,"Midland Regional Hospital Mullingar","Apr",5835
+2016,"Midland Regional Hospital Mullingar","May",5999
+2016,"Midland Regional Hospital Mullingar","Jun",6251
+2016,"Midland Regional Hospital Mullingar","Jul",6547
+2016,"Midland Regional Hospital Mullingar","Aug",6682
+2016,"Midland Regional Hospital Mullingar","Sep",6720
+2016,"Midland Regional Hospital Mullingar","Oct",6508
+2016,"Midland Regional Hospital Mullingar","Nov",6539
+2016,"Midland Regional Hospital Mullingar","Dec",6481
+2016,"Midland Regional Hospital Portlaoise","Jan",3271
+2016,"Midland Regional Hospital Portlaoise","Feb",3464
+2016,"Midland Regional Hospital Portlaoise","Mar",3573
+2016,"Midland Regional Hospital Portlaoise","Apr",3762
+2016,"Midland Regional Hospital Portlaoise","May",3771
+2016,"Midland Regional Hospital Portlaoise","Jun",3707
+2016,"Midland Regional Hospital Portlaoise","Jul",3832
+2016,"Midland Regional Hospital Portlaoise","Aug",3991
+2016,"Midland Regional Hospital Portlaoise","Sep",4128
+2016,"Midland Regional Hospital Portlaoise","Oct",4166
+2016,"Midland Regional Hospital Portlaoise","Nov",3922
+2016,"Midland Regional Hospital Portlaoise","Dec",3791
+2016,"Midland Regional Hospital Tullamore","Jan",13044
+2016,"Midland Regional Hospital Tullamore","Feb",12789
+2016,"Midland Regional Hospital Tullamore","Mar",12660
+2016,"Midland Regional Hospital Tullamore","Apr",12842
+2016,"Midland Regional Hospital Tullamore","May",12867
+2016,"Midland Regional Hospital Tullamore","Jun",13132
+2016,"Midland Regional Hospital Tullamore","Jul",13391
+2016,"Midland Regional Hospital Tullamore","Aug",13310
+2016,"Midland Regional Hospital Tullamore","Sep",13435
+2016,"Midland Regional Hospital Tullamore","Oct",13479
+2016,"Midland Regional Hospital Tullamore","Nov",13364
+2016,"Midland Regional Hospital Tullamore","Dec",13349
+2016,"Naas General Hospital","Jan",4984
+2016,"Naas General Hospital","Feb",5040
+2016,"Naas General Hospital","Mar",5230
+2016,"Naas General Hospital","Apr",5299
+2016,"Naas General Hospital","May",5392
+2016,"Naas General Hospital","Jun",5574
+2016,"Naas General Hospital","Jul",5613
+2016,"Naas General Hospital","Aug",5563
+2016,"Naas General Hospital","Sep",5576
+2016,"Naas General Hospital","Oct",5568
+2016,"Naas General Hospital","Nov",5608
+2016,"Naas General Hospital","Dec",5717
+2016,"Nenagh Hospital","Jan",1709
+2016,"Nenagh Hospital","Feb",1705
+2016,"Nenagh Hospital","Mar",1711
+2016,"Nenagh Hospital","Apr",1738
+2016,"Nenagh Hospital","May",1742
+2016,"Nenagh Hospital","Jun",1725
+2016,"Nenagh Hospital","Jul",1735
+2016,"Nenagh Hospital","Aug",1739
+2016,"Nenagh Hospital","Sep",1772
+2016,"Nenagh Hospital","Oct",1744
+2016,"Nenagh Hospital","Nov",1309
+2016,"Nenagh Hospital","Dec",1431
+2016,"Our Lady of Lourdes Hospital Drogheda","Jan",11150
+2016,"Our Lady of Lourdes Hospital Drogheda","Feb",11242
+2016,"Our Lady of Lourdes Hospital Drogheda","Mar",11622
+2016,"Our Lady of Lourdes Hospital Drogheda","Apr",11724
+2016,"Our Lady of Lourdes Hospital Drogheda","May",12145
+2016,"Our Lady of Lourdes Hospital Drogheda","Jun",12233
+2016,"Our Lady of Lourdes Hospital Drogheda","Jul",12386
+2016,"Our Lady of Lourdes Hospital Drogheda","Aug",12135
+2016,"Our Lady of Lourdes Hospital Drogheda","Sep",12098
+2016,"Our Lady of Lourdes Hospital Drogheda","Oct",12216
+2016,"Our Lady of Lourdes Hospital Drogheda","Nov",11914
+2016,"Our Lady of Lourdes Hospital Drogheda","Dec",11705
+2016,"Our Lady's Children's Hospital Crumlin","Jan",11923
+2016,"Our Lady's Children's Hospital Crumlin","Feb",12066
+2016,"Our Lady's Children's Hospital Crumlin","Mar",12267
+2016,"Our Lady's Children's Hospital Crumlin","Apr",12531
+2016,"Our Lady's Children's Hospital Crumlin","May",12952
+2016,"Our Lady's Children's Hospital Crumlin","Jun",13086
+2016,"Our Lady's Children's Hospital Crumlin","Jul",13207
+2016,"Our Lady's Children's Hospital Crumlin","Aug",13524
+2016,"Our Lady's Children's Hospital Crumlin","Sep",13320
+2016,"Our Lady's Children's Hospital Crumlin","Oct",13425
+2016,"Our Lady's Children's Hospital Crumlin","Nov",13529
+2016,"Our Lady's Children's Hospital Crumlin","Dec",13779
+2016,"Our Lady's Hospital Navan","Jan",4287
+2016,"Our Lady's Hospital Navan","Feb",4349
+2016,"Our Lady's Hospital Navan","Mar",4487
+2016,"Our Lady's Hospital Navan","Apr",4594
+2016,"Our Lady's Hospital Navan","May",4578
+2016,"Our Lady's Hospital Navan","Jun",4713
+2016,"Our Lady's Hospital Navan","Jul",4758
+2016,"Our Lady's Hospital Navan","Aug",4925
+2016,"Our Lady's Hospital Navan","Sep",5076
+2016,"Our Lady's Hospital Navan","Oct",5162
+2016,"Our Lady's Hospital Navan","Nov",5062
+2016,"Our Lady's Hospital Navan","Dec",5118
+2016,"Portiuncula Hospital","Jan",3083
+2016,"Portiuncula Hospital","Feb",3107
+2016,"Portiuncula Hospital","Mar",3103
+2016,"Portiuncula Hospital","Apr",3155
+2016,"Portiuncula Hospital","May",3169
+2016,"Portiuncula Hospital","Jun",3216
+2016,"Portiuncula Hospital","Jul",3155
+2016,"Portiuncula Hospital","Aug",3111
+2016,"Portiuncula Hospital","Sep",3100
+2016,"Portiuncula Hospital","Oct",3058
+2016,"Portiuncula Hospital","Nov",3139
+2016,"Portiuncula Hospital","Dec",3114
+2016,"Roscommon Hospital","Jan",2149
+2016,"Roscommon Hospital","Feb",2347
+2016,"Roscommon Hospital","Mar",2249
+2016,"Roscommon Hospital","Apr",2367
+2016,"Roscommon Hospital","May",2580
+2016,"Roscommon Hospital","Jun",2445
+2016,"Roscommon Hospital","Jul",2416
+2016,"Roscommon Hospital","Aug",2594
+2016,"Roscommon Hospital","Sep",2619
+2016,"Roscommon Hospital","Oct",2547
+2016,"Roscommon Hospital","Nov",2564
+2016,"Roscommon Hospital","Dec",2604
+2016,"Rotunda Hospital","Jan",1747
+2016,"Rotunda Hospital","Feb",1800
+2016,"Rotunda Hospital","Mar",1818
+2016,"Rotunda Hospital","Apr",1833
+2016,"Rotunda Hospital","May",1974
+2016,"Rotunda Hospital","Jun",2007
+2016,"Rotunda Hospital","Jul",2109
+2016,"Rotunda Hospital","Aug",2113
+2016,"Rotunda Hospital","Sep",2165
+2016,"Rotunda Hospital","Oct",2204
+2016,"Rotunda Hospital","Nov",2287
+2016,"Rotunda Hospital","Dec",2333
+2016,"Royal Victoria Eye and Ear Hospital","Jan",7497
+2016,"Royal Victoria Eye and Ear Hospital","Feb",7605
+2016,"Royal Victoria Eye and Ear Hospital","Mar",7774
+2016,"Royal Victoria Eye and Ear Hospital","Apr",7887
+2016,"Royal Victoria Eye and Ear Hospital","May",8206
+2016,"Royal Victoria Eye and Ear Hospital","Jun",8240
+2016,"Royal Victoria Eye and Ear Hospital","Jul",8969
+2016,"Royal Victoria Eye and Ear Hospital","Aug",7984
+2016,"Royal Victoria Eye and Ear Hospital","Sep",8418
+2016,"Royal Victoria Eye and Ear Hospital","Oct",8654
+2016,"Royal Victoria Eye and Ear Hospital","Nov",9119
+2016,"Royal Victoria Eye and Ear Hospital","Dec",9253
+2016,"Sligo Regional Hospital","Jan",10590
+2016,"Sligo Regional Hospital","Feb",10420
+2016,"Sligo Regional Hospital","Mar",10312
+2016,"Sligo Regional Hospital","Apr",10328
+2016,"Sligo Regional Hospital","May",10446
+2016,"Sligo Regional Hospital","Jun",10517
+2016,"Sligo Regional Hospital","Jul",10549
+2016,"Sligo Regional Hospital","Aug",10625
+2016,"Sligo Regional Hospital","Sep",10418
+2016,"Sligo Regional Hospital","Oct",10548
+2016,"Sligo Regional Hospital","Nov",10510
+2016,"Sligo Regional Hospital","Dec",10472
+2016,"South Infirmary Victoria University Hospital","Jan",17832
+2016,"South Infirmary Victoria University Hospital","Feb",18219
+2016,"South Infirmary Victoria University Hospital","Mar",18360
+2016,"South Infirmary Victoria University Hospital","Apr",18647
+2016,"South Infirmary Victoria University Hospital","May",18950
+2016,"South Infirmary Victoria University Hospital","Jun",18754
+2016,"South Infirmary Victoria University Hospital","Jul",19795
+2016,"South Infirmary Victoria University Hospital","Aug",19657
+2016,"South Infirmary Victoria University Hospital","Sep",19908
+2016,"South Infirmary Victoria University Hospital","Oct",20261
+2016,"South Infirmary Victoria University Hospital","Nov",20469
+2016,"South Infirmary Victoria University Hospital","Dec",19603
+2016,"South Tipperary General Hospital","Jan",3629
+2016,"South Tipperary General Hospital","Feb",3676
+2016,"South Tipperary General Hospital","Mar",3717
+2016,"South Tipperary General Hospital","Apr",3778
+2016,"South Tipperary General Hospital","May",3716
+2016,"South Tipperary General Hospital","Jun",3734
+2016,"South Tipperary General Hospital","Jul",3766
+2016,"South Tipperary General Hospital","Aug",3732
+2016,"South Tipperary General Hospital","Sep",3756
+2016,"South Tipperary General Hospital","Oct",3714
+2016,"South Tipperary General Hospital","Nov",3473
+2016,"South Tipperary General Hospital","Dec",3398
+2016,"St. Columcille's Hospital","Jan",2704
+2016,"St. Columcille's Hospital","Feb",2702
+2016,"St. Columcille's Hospital","Mar",2767
+2016,"St. Columcille's Hospital","Apr",2707
+2016,"St. Columcille's Hospital","May",2792
+2016,"St. Columcille's Hospital","Jun",2804
+2016,"St. Columcille's Hospital","Jul",2711
+2016,"St. Columcille's Hospital","Aug",2696
+2016,"St. Columcille's Hospital","Sep",2686
+2016,"St. Columcille's Hospital","Oct",2582
+2016,"St. Columcille's Hospital","Nov",2623
+2016,"St. Columcille's Hospital","Dec",2655
+2016,"St. James's Hospital","Jan",13498
+2016,"St. James's Hospital","Feb",13609
+2016,"St. James's Hospital","Mar",14310
+2016,"St. James's Hospital","Apr",14278
+2016,"St. James's Hospital","May",14578
+2016,"St. James's Hospital","Jun",14951
+2016,"St. James's Hospital","Jul",15174
+2016,"St. James's Hospital","Aug",15161
+2016,"St. James's Hospital","Sep",15198
+2016,"St. James's Hospital","Oct",15321
+2016,"St. James's Hospital","Nov",15380
+2016,"St. James's Hospital","Dec",15286
+2016,"St. John's Hospital Limerick","Jan",1222
+2016,"St. John's Hospital Limerick","Feb",1234
+2016,"St. John's Hospital Limerick","Mar",1232
+2016,"St. John's Hospital Limerick","Apr",1232
+2016,"St. John's Hospital Limerick","May",1232
+2016,"St. John's Hospital Limerick","Jun",1232
+2016,"St. John's Hospital Limerick","Jul",1680
+2016,"St. John's Hospital Limerick","Aug",1610
+2016,"St. John's Hospital Limerick","Sep",1585
+2016,"St. John's Hospital Limerick","Oct",1592
+2016,"St. John's Hospital Limerick","Nov",1524
+2016,"St. John's Hospital Limerick","Dec",1414
+2016,"St. Luke's General Hospital Kilkenny","Jan",2568
+2016,"St. Luke's General Hospital Kilkenny","Feb",2637
+2016,"St. Luke's General Hospital Kilkenny","Mar",2811
+2016,"St. Luke's General Hospital Kilkenny","Apr",2893
+2016,"St. Luke's General Hospital Kilkenny","May",2925
+2016,"St. Luke's General Hospital Kilkenny","Jun",3010
+2016,"St. Luke's General Hospital Kilkenny","Jul",3174
+2016,"St. Luke's General Hospital Kilkenny","Aug",3124
+2016,"St. Luke's General Hospital Kilkenny","Sep",3084
+2016,"St. Luke's General Hospital Kilkenny","Oct",3046
+2016,"St. Luke's General Hospital Kilkenny","Nov",3091
+2016,"St. Luke's General Hospital Kilkenny","Dec",3080
+2016,"St. Michael's Hospital Dun Laoghaire","Jan",2146
+2016,"St. Michael's Hospital Dun Laoghaire","Feb",2092
+2016,"St. Michael's Hospital Dun Laoghaire","Mar",2223
+2016,"St. Michael's Hospital Dun Laoghaire","Apr",2445
+2016,"St. Michael's Hospital Dun Laoghaire","May",2544
+2016,"St. Michael's Hospital Dun Laoghaire","Jun",2762
+2016,"St. Michael's Hospital Dun Laoghaire","Jul",2853
+2016,"St. Michael's Hospital Dun Laoghaire","Aug",2810
+2016,"St. Michael's Hospital Dun Laoghaire","Sep",2837
+2016,"St. Michael's Hospital Dun Laoghaire","Oct",2717
+2016,"St. Michael's Hospital Dun Laoghaire","Nov",2761
+2016,"St. Michael's Hospital Dun Laoghaire","Dec",2795
+2016,"St. Vincent's University Hospital","Jan",15612
+2016,"St. Vincent's University Hospital","Feb",15623
+2016,"St. Vincent's University Hospital","Mar",15938
+2016,"St. Vincent's University Hospital","Apr",16397
+2016,"St. Vincent's University Hospital","May",16361
+2016,"St. Vincent's University Hospital","Jun",16469
+2016,"St. Vincent's University Hospital","Jul",16504
+2016,"St. Vincent's University Hospital","Aug",16830
+2016,"St. Vincent's University Hospital","Sep",17100
+2016,"St. Vincent's University Hospital","Oct",16990
+2016,"St. Vincent's University Hospital","Nov",17210
+2016,"St. Vincent's University Hospital","Dec",17382
+2016,"Tallaght Children's Hospital","Jan",5501
+2016,"Tallaght Children's Hospital","Feb",5745
+2016,"Tallaght Children's Hospital","Mar",6088
+2016,"Tallaght Children's Hospital","Apr",6146
+2016,"Tallaght Children's Hospital","May",5792
+2016,"Tallaght Children's Hospital","Jun",6001
+2016,"Tallaght Children's Hospital","Jul",6027
+2016,"Tallaght Children's Hospital","Aug",6124
+2016,"Tallaght Children's Hospital","Sep",6129
+2016,"Tallaght Children's Hospital","Oct",6163
+2016,"Tallaght Children's Hospital","Nov",6310
+2016,"Tallaght Children's Hospital","Dec",5964
+2016,"Tallaght Hospital","Jan",19445
+2016,"Tallaght Hospital","Feb",19546
+2016,"Tallaght Hospital","Mar",19940
+2016,"Tallaght Hospital","Apr",19612
+2016,"Tallaght Hospital","May",19610
+2016,"Tallaght Hospital","Jun",20498
+2016,"Tallaght Hospital","Jul",21141
+2016,"Tallaght Hospital","Aug",21811
+2016,"Tallaght Hospital","Sep",22201
+2016,"Tallaght Hospital","Oct",21873
+2016,"Tallaght Hospital","Nov",21704
+2016,"Tallaght Hospital","Dec",22276
+2016,"University Hospital Limerick","Jan",18988
+2016,"University Hospital Limerick","Feb",19903
+2016,"University Hospital Limerick","Mar",21395
+2016,"University Hospital Limerick","Apr",22421
+2016,"University Hospital Limerick","May",22748
+2016,"University Hospital Limerick","Jun",23211
+2016,"University Hospital Limerick","Jul",24913
+2016,"University Hospital Limerick","Aug",25745
+2016,"University Hospital Limerick","Sep",25936
+2016,"University Hospital Limerick","Oct",25738
+2016,"University Hospital Limerick","Nov",26349
+2016,"University Hospital Limerick","Dec",25837
+2016,"University Hospital Waterford","Jan",19788
+2016,"University Hospital Waterford","Feb",21588
+2016,"University Hospital Waterford","Mar",22918
+2016,"University Hospital Waterford","Apr",24129
+2016,"University Hospital Waterford","May",26743
+2016,"University Hospital Waterford","Jun",28172
+2016,"University Hospital Waterford","Jul",29052
+2016,"University Hospital Waterford","Aug",29631
+2016,"University Hospital Waterford","Sep",30092
+2016,"University Hospital Waterford","Oct",30509
+2016,"University Hospital Waterford","Nov",30940
+2016,"University Hospital Waterford","Dec",31132
+2016,"Wexford General Hospital","Jan",3203
+2016,"Wexford General Hospital","Feb",3245
+2016,"Wexford General Hospital","Mar",3247
+2016,"Wexford General Hospital","Apr",3234
+2016,"Wexford General Hospital","May",3248
+2016,"Wexford General Hospital","Jun",3285
+2016,"Wexford General Hospital","Jul",3153
+2016,"Wexford General Hospital","Aug",3051
+2016,"Wexford General Hospital","Sep",2881
+2016,"Wexford General Hospital","Oct",2972
+2016,"Wexford General Hospital","Nov",2973
+2016,"Wexford General Hospital","Dec",2930
+2017,"Bantry General Hospital","Jan",1235
+2017,"Bantry General Hospital","Feb",1286
+2017,"Bantry General Hospital","Mar",1210
+2017,"Bantry General Hospital","Apr",1243
+2017,"Bantry General Hospital","May",1230
+2017,"Bantry General Hospital","Jun",1170
+2017,"Bantry General Hospital","Jul",1126
+2017,"Bantry General Hospital","Aug",1081
+2017,"Bantry General Hospital","Sep",1069
+2017,"Bantry General Hospital","Oct",1063
+2017,"Bantry General Hospital","Nov",1093
+2017,"Bantry General Hospital","Dec",1195
+2017,"Beaumont Hospital","Jan",25007
+2017,"Beaumont Hospital","Feb",25400
+2017,"Beaumont Hospital","Mar",25626
+2017,"Beaumont Hospital","Apr",26092
+2017,"Beaumont Hospital","May",25253
+2017,"Beaumont Hospital","Jun",24999
+2017,"Beaumont Hospital","Jul",25742
+2017,"Beaumont Hospital","Aug",26263
+2017,"Beaumont Hospital","Sep",25977
+2017,"Beaumont Hospital","Oct",26044
+2017,"Beaumont Hospital","Nov",26349
+2017,"Beaumont Hospital","Dec",26089
+2017,"Cappagh National Orthopaedic Hospital","Jan",1488
+2017,"Cappagh National Orthopaedic Hospital","Feb",1563
+2017,"Cappagh National Orthopaedic Hospital","Mar",1610
+2017,"Cappagh National Orthopaedic Hospital","Apr",1661
+2017,"Cappagh National Orthopaedic Hospital","May",1717
+2017,"Cappagh National Orthopaedic Hospital","Jun",1758
+2017,"Cappagh National Orthopaedic Hospital","Jul",1816
+2017,"Cappagh National Orthopaedic Hospital","Aug",1804
+2017,"Cappagh National Orthopaedic Hospital","Sep",1870
+2017,"Cappagh National Orthopaedic Hospital","Oct",1924
+2017,"Cappagh National Orthopaedic Hospital","Nov",1933
+2017,"Cappagh National Orthopaedic Hospital","Dec",1973
+2017,"Cavan General Hospital","Jan",8744
+2017,"Cavan General Hospital","Feb",9117
+2017,"Cavan General Hospital","Mar",9465
+2017,"Cavan General Hospital","Apr",9775
+2017,"Cavan General Hospital","May",10202
+2017,"Cavan General Hospital","Jun",10368
+2017,"Cavan General Hospital","Jul",10441
+2017,"Cavan General Hospital","Aug",10101
+2017,"Cavan General Hospital","Sep",8503
+2017,"Cavan General Hospital","Oct",8530
+2017,"Cavan General Hospital","Nov",8910
+2017,"Cavan General Hospital","Dec",8685
+2017,"Childrens University Hospital Temple Street","Jan",15310
+2017,"Childrens University Hospital Temple Street","Feb",15623
+2017,"Childrens University Hospital Temple Street","Mar",16150
+2017,"Childrens University Hospital Temple Street","Apr",16227
+2017,"Childrens University Hospital Temple Street","May",16328
+2017,"Childrens University Hospital Temple Street","Jun",16444
+2017,"Childrens University Hospital Temple Street","Jul",16553
+2017,"Childrens University Hospital Temple Street","Aug",16710
+2017,"Childrens University Hospital Temple Street","Sep",16454
+2017,"Childrens University Hospital Temple Street","Oct",16482
+2017,"Childrens University Hospital Temple Street","Nov",16647
+2017,"Childrens University Hospital Temple Street","Dec",16573
+2017,"Connolly Hospital","Jan",10540
+2017,"Connolly Hospital","Feb",10640
+2017,"Connolly Hospital","Mar",10496
+2017,"Connolly Hospital","Apr",10417
+2017,"Connolly Hospital","May",10543
+2017,"Connolly Hospital","Jun",10729
+2017,"Connolly Hospital","Jul",11020
+2017,"Connolly Hospital","Aug",11385
+2017,"Connolly Hospital","Sep",11327
+2017,"Connolly Hospital","Oct",11549
+2017,"Connolly Hospital","Nov",11717
+2017,"Connolly Hospital","Dec",11520
+2017,"Coombe Women and Infants University Hospital","Mar",2944
+2017,"Coombe Women and Infants University Hospital","Apr",2882
+2017,"Coombe Women and Infants University Hospital","May",2808
+2017,"Coombe Women and Infants University Hospital","Jun",2792
+2017,"Coombe Women and Infants University Hospital","Jul",2618
+2017,"Coombe Women and Infants University Hospital","Aug",2465
+2017,"Coombe Women and Infants University Hospital","Sep",2269
+2017,"Coombe Women and Infants University Hospital","Oct",2021
+2017,"Coombe Women and Infants University Hospital","Nov",2901
+2017,"Coombe Women and Infants University Hospital","Dec",2858
+2017,"Cork University Hospital","Jan",27381
+2017,"Cork University Hospital","Feb",27446
+2017,"Cork University Hospital","Mar",28249
+2017,"Cork University Hospital","Apr",23352
+2017,"Cork University Hospital","May",23728
+2017,"Cork University Hospital","Jun",23691
+2017,"Cork University Hospital","Jul",23795
+2017,"Cork University Hospital","Aug",23809
+2017,"Cork University Hospital","Sep",23650
+2017,"Cork University Hospital","Oct",23497
+2017,"Cork University Hospital","Nov",23497
+2017,"Cork University Hospital","Dec",23477
+2017,"Cork University Maternity Hospital ","Apr",4673
+2017,"Cork University Maternity Hospital ","May",4615
+2017,"Cork University Maternity Hospital ","Jun",4524
+2017,"Cork University Maternity Hospital ","Jul",4408
+2017,"Cork University Maternity Hospital ","Aug",4300
+2017,"Cork University Maternity Hospital ","Sep",4221
+2017,"Cork University Maternity Hospital ","Oct",4091
+2017,"Cork University Maternity Hospital ","Nov",3878
+2017,"Cork University Maternity Hospital ","Dec",3792
+2017,"Croom Orthopaedic Hospital","Jan",5849
+2017,"Croom Orthopaedic Hospital","Feb",6082
+2017,"Croom Orthopaedic Hospital","Mar",6082
+2017,"Croom Orthopaedic Hospital","Apr",6115
+2017,"Croom Orthopaedic Hospital","May",6293
+2017,"Croom Orthopaedic Hospital","Jun",6419
+2017,"Croom Orthopaedic Hospital","Jul",6608
+2017,"Croom Orthopaedic Hospital","Aug",6777
+2017,"Croom Orthopaedic Hospital","Sep",6844
+2017,"Croom Orthopaedic Hospital","Oct",6892
+2017,"Croom Orthopaedic Hospital","Nov",7005
+2017,"Croom Orthopaedic Hospital","Dec",6903
+2017,"Ennis Hospital","Jan",1688
+2017,"Ennis Hospital","Feb",1662
+2017,"Ennis Hospital","Mar",1595
+2017,"Ennis Hospital","Apr",1561
+2017,"Ennis Hospital","May",1548
+2017,"Ennis Hospital","Jun",1597
+2017,"Ennis Hospital","Jul",1464
+2017,"Ennis Hospital","Aug",1419
+2017,"Ennis Hospital","Sep",1410
+2017,"Ennis Hospital","Oct",1393
+2017,"Ennis Hospital","Nov",1411
+2017,"Ennis Hospital","Dec",1397
+2017,"Galway University Hospital","Jan",35138
+2017,"Galway University Hospital","Feb",35471
+2017,"Galway University Hospital","Mar",35841
+2017,"Galway University Hospital","Apr",36861
+2017,"Galway University Hospital","May",37204
+2017,"Galway University Hospital","Jun",37498
+2017,"Galway University Hospital","Jul",38501
+2017,"Galway University Hospital","Aug",39041
+2017,"Galway University Hospital","Sep",38832
+2017,"Galway University Hospital","Oct",38652
+2017,"Galway University Hospital","Nov",38285
+2017,"Galway University Hospital","Dec",38404
+2017,"Kerry General Hospital","Jan",8533
+2017,"Kerry General Hospital","Feb",8810
+2017,"Kerry General Hospital","Mar",8804
+2017,"Kerry General Hospital","Apr",9134
+2017,"Kerry General Hospital","May",9353
+2017,"Kerry General Hospital","Jun",9409
+2017,"Kerry General Hospital","Jul",9393
+2017,"Kerry General Hospital","Aug",9479
+2017,"Kerry General Hospital","Sep",9723
+2017,"Kerry General Hospital","Oct",9712
+2017,"Kerry General Hospital","Nov",9686
+2017,"Kerry General Hospital","Dec",9728
+2017,"Letterkenny General Hospital","Jan",12842
+2017,"Letterkenny General Hospital","Feb",12938
+2017,"Letterkenny General Hospital","Mar",13359
+2017,"Letterkenny General Hospital","Apr",13669
+2017,"Letterkenny General Hospital","May",13824
+2017,"Letterkenny General Hospital","Jun",14027
+2017,"Letterkenny General Hospital","Jul",13985
+2017,"Letterkenny General Hospital","Aug",13914
+2017,"Letterkenny General Hospital","Sep",13744
+2017,"Letterkenny General Hospital","Oct",13993
+2017,"Letterkenny General Hospital","Nov",14311
+2017,"Letterkenny General Hospital","Dec",14500
+2017,"Louth County Hospital","Jan",2849
+2017,"Louth County Hospital","Feb",2940
+2017,"Louth County Hospital","Mar",2997
+2017,"Louth County Hospital","Apr",3088
+2017,"Louth County Hospital","May",3063
+2017,"Louth County Hospital","Jun",2960
+2017,"Louth County Hospital","Jul",3092
+2017,"Louth County Hospital","Aug",2943
+2017,"Louth County Hospital","Sep",2742
+2017,"Louth County Hospital","Oct",2517
+2017,"Louth County Hospital","Nov",2461
+2017,"Louth County Hospital","Dec",2274
+2017,"Mallow General Hospital","Jan",2489
+2017,"Mallow General Hospital","Feb",2499
+2017,"Mallow General Hospital","Mar",2495
+2017,"Mallow General Hospital","Apr",2487
+2017,"Mallow General Hospital","May",2471
+2017,"Mallow General Hospital","Jun",2492
+2017,"Mallow General Hospital","Jul",2503
+2017,"Mallow General Hospital","Aug",2702
+2017,"Mallow General Hospital","Sep",2711
+2017,"Mallow General Hospital","Oct",2632
+2017,"Mallow General Hospital","Nov",2719
+2017,"Mallow General Hospital","Dec",2671
+2017,"Mater Misericordiae University Hospital","Jan",27029
+2017,"Mater Misericordiae University Hospital","Feb",28657
+2017,"Mater Misericordiae University Hospital","Mar",29408
+2017,"Mater Misericordiae University Hospital","Apr",30170
+2017,"Mater Misericordiae University Hospital","May",31008
+2017,"Mater Misericordiae University Hospital","Jun",29534
+2017,"Mater Misericordiae University Hospital","Jul",31254
+2017,"Mater Misericordiae University Hospital","Aug",32208
+2017,"Mater Misericordiae University Hospital","Sep",32613
+2017,"Mater Misericordiae University Hospital","Oct",32517
+2017,"Mater Misericordiae University Hospital","Nov",33076
+2017,"Mater Misericordiae University Hospital","Dec",34053
+2017,"Mayo General Hospital","Jan",7146
+2017,"Mayo General Hospital","Feb",7336
+2017,"Mayo General Hospital","Mar",7344
+2017,"Mayo General Hospital","Apr",7532
+2017,"Mayo General Hospital","May",7595
+2017,"Mayo General Hospital","Jun",7743
+2017,"Mayo General Hospital","Jul",7845
+2017,"Mayo General Hospital","Aug",7938
+2017,"Mayo General Hospital","Sep",8021
+2017,"Mayo General Hospital","Oct",8248
+2017,"Mayo General Hospital","Nov",8627
+2017,"Mayo General Hospital","Dec",8521
+2017,"Mercy University Hospital","Jan",5109
+2017,"Mercy University Hospital","Feb",5087
+2017,"Mercy University Hospital","Mar",4965
+2017,"Mercy University Hospital","Apr",5094
+2017,"Mercy University Hospital","May",4840
+2017,"Mercy University Hospital","Jun",4912
+2017,"Mercy University Hospital","Jul",4960
+2017,"Mercy University Hospital","Aug",5052
+2017,"Mercy University Hospital","Sep",5072
+2017,"Mercy University Hospital","Oct",5314
+2017,"Mercy University Hospital","Nov",5082
+2017,"Mercy University Hospital","Dec",5090
+2017,"Midland Regional Hospital Mullingar","Jan",6743
+2017,"Midland Regional Hospital Mullingar","Feb",7464
+2017,"Midland Regional Hospital Mullingar","Mar",7856
+2017,"Midland Regional Hospital Mullingar","Apr",7570
+2017,"Midland Regional Hospital Mullingar","May",7218
+2017,"Midland Regional Hospital Mullingar","Jun",7528
+2017,"Midland Regional Hospital Mullingar","Jul",7849
+2017,"Midland Regional Hospital Mullingar","Aug",8010
+2017,"Midland Regional Hospital Mullingar","Sep",8206
+2017,"Midland Regional Hospital Mullingar","Oct",7951
+2017,"Midland Regional Hospital Mullingar","Nov",7333
+2017,"Midland Regional Hospital Mullingar","Dec",7656
+2017,"Midland Regional Hospital Portlaoise","Jan",3831
+2017,"Midland Regional Hospital Portlaoise","Feb",3902
+2017,"Midland Regional Hospital Portlaoise","Mar",3943
+2017,"Midland Regional Hospital Portlaoise","Apr",3913
+2017,"Midland Regional Hospital Portlaoise","May",3979
+2017,"Midland Regional Hospital Portlaoise","Jun",3808
+2017,"Midland Regional Hospital Portlaoise","Jul",3856
+2017,"Midland Regional Hospital Portlaoise","Aug",3803
+2017,"Midland Regional Hospital Portlaoise","Sep",4453
+2017,"Midland Regional Hospital Portlaoise","Oct",4588
+2017,"Midland Regional Hospital Portlaoise","Nov",4282
+2017,"Midland Regional Hospital Portlaoise","Dec",4629
+2017,"Midland Regional Hospital Tullamore","Jan",13475
+2017,"Midland Regional Hospital Tullamore","Feb",13391
+2017,"Midland Regional Hospital Tullamore","Mar",13250
+2017,"Midland Regional Hospital Tullamore","Apr",13264
+2017,"Midland Regional Hospital Tullamore","May",13038
+2017,"Midland Regional Hospital Tullamore","Jun",13598
+2017,"Midland Regional Hospital Tullamore","Jul",13634
+2017,"Midland Regional Hospital Tullamore","Aug",13695
+2017,"Midland Regional Hospital Tullamore","Sep",14704
+2017,"Midland Regional Hospital Tullamore","Oct",15196
+2017,"Midland Regional Hospital Tullamore","Nov",15233
+2017,"Midland Regional Hospital Tullamore","Dec",15325
+2017,"Naas General Hospital","Jan",5773
+2017,"Naas General Hospital","Feb",5808
+2017,"Naas General Hospital","Mar",5943
+2017,"Naas General Hospital","Apr",6094
+2017,"Naas General Hospital","May",6178
+2017,"Naas General Hospital","Jun",6374
+2017,"Naas General Hospital","Jul",6538
+2017,"Naas General Hospital","Aug",6741
+2017,"Naas General Hospital","Sep",6943
+2017,"Naas General Hospital","Oct",7197
+2017,"Naas General Hospital","Nov",7424
+2017,"Naas General Hospital","Dec",7617
+2017,"Nenagh Hospital","Jan",1451
+2017,"Nenagh Hospital","Feb",1366
+2017,"Nenagh Hospital","Mar",1356
+2017,"Nenagh Hospital","Apr",1310
+2017,"Nenagh Hospital","May",1302
+2017,"Nenagh Hospital","Jun",1336
+2017,"Nenagh Hospital","Jul",1254
+2017,"Nenagh Hospital","Aug",1212
+2017,"Nenagh Hospital","Sep",1233
+2017,"Nenagh Hospital","Oct",1159
+2017,"Nenagh Hospital","Nov",1088
+2017,"Nenagh Hospital","Dec",1065
+2017,"Our Lady of Lourdes Hospital Drogheda","Jan",12087
+2017,"Our Lady of Lourdes Hospital Drogheda","Feb",12368
+2017,"Our Lady of Lourdes Hospital Drogheda","Mar",12506
+2017,"Our Lady of Lourdes Hospital Drogheda","Apr",13061
+2017,"Our Lady of Lourdes Hospital Drogheda","May",13476
+2017,"Our Lady of Lourdes Hospital Drogheda","Jun",13851
+2017,"Our Lady of Lourdes Hospital Drogheda","Jul",14281
+2017,"Our Lady of Lourdes Hospital Drogheda","Aug",14381
+2017,"Our Lady of Lourdes Hospital Drogheda","Sep",13561
+2017,"Our Lady of Lourdes Hospital Drogheda","Oct",13331
+2017,"Our Lady of Lourdes Hospital Drogheda","Nov",12935
+2017,"Our Lady of Lourdes Hospital Drogheda","Dec",12737
+2017,"Our Lady's Children's Hospital Crumlin","Jan",13850
+2017,"Our Lady's Children's Hospital Crumlin","Feb",13956
+2017,"Our Lady's Children's Hospital Crumlin","Mar",15390
+2017,"Our Lady's Children's Hospital Crumlin","Apr",15770
+2017,"Our Lady's Children's Hospital Crumlin","May",16502
+2017,"Our Lady's Children's Hospital Crumlin","Jun",16905
+2017,"Our Lady's Children's Hospital Crumlin","Jul",17364
+2017,"Our Lady's Children's Hospital Crumlin","Aug",17540
+2017,"Our Lady's Children's Hospital Crumlin","Sep",17582
+2017,"Our Lady's Children's Hospital Crumlin","Oct",17534
+2017,"Our Lady's Children's Hospital Crumlin","Nov",17746
+2017,"Our Lady's Children's Hospital Crumlin","Dec",17826
+2017,"Our Lady's Hospital Navan","Jan",5244
+2017,"Our Lady's Hospital Navan","Feb",5296
+2017,"Our Lady's Hospital Navan","Mar",5386
+2017,"Our Lady's Hospital Navan","Apr",5547
+2017,"Our Lady's Hospital Navan","May",5627
+2017,"Our Lady's Hospital Navan","Jun",5685
+2017,"Our Lady's Hospital Navan","Jul",5900
+2017,"Our Lady's Hospital Navan","Aug",6042
+2017,"Our Lady's Hospital Navan","Sep",6132
+2017,"Our Lady's Hospital Navan","Oct",6021
+2017,"Our Lady's Hospital Navan","Nov",5632
+2017,"Our Lady's Hospital Navan","Dec",5585
+2017,"Portiuncula Hospital","Jan",3217
+2017,"Portiuncula Hospital","Feb",3256
+2017,"Portiuncula Hospital","Mar",3336
+2017,"Portiuncula Hospital","Apr",3511
+2017,"Portiuncula Hospital","May",3631
+2017,"Portiuncula Hospital","Jun",3672
+2017,"Portiuncula Hospital","Jul",3617
+2017,"Portiuncula Hospital","Aug",3634
+2017,"Portiuncula Hospital","Sep",3672
+2017,"Portiuncula Hospital","Oct",3655
+2017,"Portiuncula Hospital","Nov",3689
+2017,"Portiuncula Hospital","Dec",3688
+2017,"Roscommon Hospital","Jan",2581
+2017,"Roscommon Hospital","Feb",2552
+2017,"Roscommon Hospital","Mar",2753
+2017,"Roscommon Hospital","Apr",2733
+2017,"Roscommon Hospital","May",2804
+2017,"Roscommon Hospital","Jun",2887
+2017,"Roscommon Hospital","Jul",2961
+2017,"Roscommon Hospital","Aug",3081
+2017,"Roscommon Hospital","Sep",2950
+2017,"Roscommon Hospital","Oct",2902
+2017,"Roscommon Hospital","Nov",2912
+2017,"Roscommon Hospital","Dec",2883
+2017,"Rotunda Hospital","Jan",2427
+2017,"Rotunda Hospital","Feb",2573
+2017,"Rotunda Hospital","Mar",2693
+2017,"Rotunda Hospital","Apr",2703
+2017,"Rotunda Hospital","May",2837
+2017,"Rotunda Hospital","Jun",2945
+2017,"Rotunda Hospital","Jul",3225
+2017,"Rotunda Hospital","Aug",3312
+2017,"Rotunda Hospital","Sep",3294
+2017,"Rotunda Hospital","Oct",3312
+2017,"Rotunda Hospital","Nov",3394
+2017,"Rotunda Hospital","Dec",3971
+2017,"Royal Victoria Eye and Ear Hospital","Jan",9437
+2017,"Royal Victoria Eye and Ear Hospital","Feb",9582
+2017,"Royal Victoria Eye and Ear Hospital","Mar",9999
+2017,"Royal Victoria Eye and Ear Hospital","Apr",10219
+2017,"Royal Victoria Eye and Ear Hospital","May",10687
+2017,"Royal Victoria Eye and Ear Hospital","Jun",10996
+2017,"Royal Victoria Eye and Ear Hospital","Jul",11130
+2017,"Royal Victoria Eye and Ear Hospital","Aug",11358
+2017,"Royal Victoria Eye and Ear Hospital","Sep",11530
+2017,"Royal Victoria Eye and Ear Hospital","Oct",11700
+2017,"Royal Victoria Eye and Ear Hospital","Nov",11885
+2017,"Royal Victoria Eye and Ear Hospital","Dec",12097
+2017,"Sligo Regional Hospital","Jan",10590
+2017,"Sligo Regional Hospital","Feb",10918
+2017,"Sligo Regional Hospital","Mar",11049
+2017,"Sligo Regional Hospital","Apr",11190
+2017,"Sligo Regional Hospital","May",11456
+2017,"Sligo Regional Hospital","Jun",11765
+2017,"Sligo Regional Hospital","Jul",11652
+2017,"Sligo Regional Hospital","Aug",11833
+2017,"Sligo Regional Hospital","Sep",12055
+2017,"Sligo Regional Hospital","Oct",12435
+2017,"Sligo Regional Hospital","Nov",12353
+2017,"Sligo Regional Hospital","Dec",12409
+2017,"South Infirmary Victoria University Hospital","Jan",19989
+2017,"South Infirmary Victoria University Hospital","Feb",20553
+2017,"South Infirmary Victoria University Hospital","Mar",21072
+2017,"South Infirmary Victoria University Hospital","Apr",21552
+2017,"South Infirmary Victoria University Hospital","May",20788
+2017,"South Infirmary Victoria University Hospital","Jun",21355
+2017,"South Infirmary Victoria University Hospital","Jul",22067
+2017,"South Infirmary Victoria University Hospital","Aug",21439
+2017,"South Infirmary Victoria University Hospital","Sep",21910
+2017,"South Infirmary Victoria University Hospital","Oct",21840
+2017,"South Infirmary Victoria University Hospital","Nov",21911
+2017,"South Infirmary Victoria University Hospital","Dec",22056
+2017,"South Tipperary General Hospital","Jan",3416
+2017,"South Tipperary General Hospital","Feb",3254
+2017,"South Tipperary General Hospital","Mar",3264
+2017,"South Tipperary General Hospital","Apr",3202
+2017,"South Tipperary General Hospital","May",3076
+2017,"South Tipperary General Hospital","Jun",3122
+2017,"South Tipperary General Hospital","Jul",3133
+2017,"South Tipperary General Hospital","Aug",3245
+2017,"South Tipperary General Hospital","Sep",3180
+2017,"South Tipperary General Hospital","Oct",3251
+2017,"South Tipperary General Hospital","Nov",3305
+2017,"South Tipperary General Hospital","Dec",3418
+2017,"St. Columcille's Hospital","Jan",2761
+2017,"St. Columcille's Hospital","Feb",2780
+2017,"St. Columcille's Hospital","Mar",2856
+2017,"St. Columcille's Hospital","Apr",2898
+2017,"St. Columcille's Hospital","May",2855
+2017,"St. Columcille's Hospital","Jun",3028
+2017,"St. Columcille's Hospital","Jul",2688
+2017,"St. Columcille's Hospital","Aug",3060
+2017,"St. Columcille's Hospital","Sep",3060
+2017,"St. Columcille's Hospital","Oct",3048
+2017,"St. Columcille's Hospital","Nov",3008
+2017,"St. Columcille's Hospital","Dec",2972
+2017,"St. James's Hospital","Jan",15334
+2017,"St. James's Hospital","Feb",15463
+2017,"St. James's Hospital","Mar",15410
+2017,"St. James's Hospital","Apr",15632
+2017,"St. James's Hospital","May",15883
+2017,"St. James's Hospital","Jun",16531
+2017,"St. James's Hospital","Jul",16759
+2017,"St. James's Hospital","Aug",16611
+2017,"St. James's Hospital","Sep",16676
+2017,"St. James's Hospital","Oct",16853
+2017,"St. James's Hospital","Nov",16886
+2017,"St. James's Hospital","Dec",16829
+2017,"St. John's Hospital Limerick","Jan",1508
+2017,"St. John's Hospital Limerick","Feb",1534
+2017,"St. John's Hospital Limerick","Mar",1896
+2017,"St. John's Hospital Limerick","Apr",1559
+2017,"St. John's Hospital Limerick","May",1500
+2017,"St. John's Hospital Limerick","Jun",1428
+2017,"St. John's Hospital Limerick","Jul",1228
+2017,"St. John's Hospital Limerick","Aug",1242
+2017,"St. John's Hospital Limerick","Sep",1212
+2017,"St. John's Hospital Limerick","Oct",1136
+2017,"St. John's Hospital Limerick","Nov",1098
+2017,"St. John's Hospital Limerick","Dec",1079
+2017,"St. Luke's General Hospital Kilkenny","Jan",3236
+2017,"St. Luke's General Hospital Kilkenny","Feb",3242
+2017,"St. Luke's General Hospital Kilkenny","Mar",3229
+2017,"St. Luke's General Hospital Kilkenny","Apr",3205
+2017,"St. Luke's General Hospital Kilkenny","May",3221
+2017,"St. Luke's General Hospital Kilkenny","Jun",3153
+2017,"St. Luke's General Hospital Kilkenny","Jul",3488
+2017,"St. Luke's General Hospital Kilkenny","Aug",3313
+2017,"St. Luke's General Hospital Kilkenny","Sep",3155
+2017,"St. Luke's General Hospital Kilkenny","Oct",3128
+2017,"St. Luke's General Hospital Kilkenny","Nov",3045
+2017,"St. Luke's General Hospital Kilkenny","Dec",2954
+2017,"St. Michael's Hospital Dun Laoghaire","Jan",2740
+2017,"St. Michael's Hospital Dun Laoghaire","Feb",2719
+2017,"St. Michael's Hospital Dun Laoghaire","Mar",2607
+2017,"St. Michael's Hospital Dun Laoghaire","Apr",2656
+2017,"St. Michael's Hospital Dun Laoghaire","May",2527
+2017,"St. Michael's Hospital Dun Laoghaire","Jun",2506
+2017,"St. Michael's Hospital Dun Laoghaire","Jul",2532
+2017,"St. Michael's Hospital Dun Laoghaire","Aug",2613
+2017,"St. Michael's Hospital Dun Laoghaire","Sep",2530
+2017,"St. Michael's Hospital Dun Laoghaire","Oct",2559
+2017,"St. Michael's Hospital Dun Laoghaire","Nov",2551
+2017,"St. Michael's Hospital Dun Laoghaire","Dec",2570
+2017,"St. Vincent's University Hospital","Jan",17526
+2017,"St. Vincent's University Hospital","Feb",17931
+2017,"St. Vincent's University Hospital","Mar",18080
+2017,"St. Vincent's University Hospital","Apr",18516
+2017,"St. Vincent's University Hospital","May",18674
+2017,"St. Vincent's University Hospital","Jun",19123
+2017,"St. Vincent's University Hospital","Jul",19467
+2017,"St. Vincent's University Hospital","Aug",19280
+2017,"St. Vincent's University Hospital","Sep",18703
+2017,"St. Vincent's University Hospital","Oct",17809
+2017,"St. Vincent's University Hospital","Nov",18363
+2017,"St. Vincent's University Hospital","Dec",18731
+2017,"Tallaght Children's Hospital","Jan",6192
+2017,"Tallaght Children's Hospital","Feb",6377
+2017,"Tallaght Children's Hospital","Mar",6746
+2017,"Tallaght Children's Hospital","Apr",7005
+2017,"Tallaght Children's Hospital","May",7028
+2017,"Tallaght Children's Hospital","Jun",7323
+2017,"Tallaght Children's Hospital","Jul",7444
+2017,"Tallaght Children's Hospital","Aug",7508
+2017,"Tallaght Children's Hospital","Sep",7165
+2017,"Tallaght Children's Hospital","Oct",7239
+2017,"Tallaght Children's Hospital","Nov",7241
+2017,"Tallaght Children's Hospital","Dec",7279
+2017,"Tallaght Hospital","Jan",23190
+2017,"Tallaght Hospital","Feb",23913
+2017,"Tallaght Hospital","Mar",24314
+2017,"Tallaght Hospital","Apr",25174
+2017,"Tallaght Hospital","May",25755
+2017,"Tallaght Hospital","Jun",26298
+2017,"Tallaght Hospital","Jul",26983
+2017,"Tallaght Hospital","Aug",27181
+2017,"Tallaght Hospital","Sep",27306
+2017,"Tallaght Hospital","Oct",26318
+2017,"Tallaght Hospital","Nov",26629
+2017,"Tallaght Hospital","Dec",26808
+2017,"University Hospital Limerick","Jan",26095
+2017,"University Hospital Limerick","Feb",25864
+2017,"University Hospital Limerick","Mar",26094
+2017,"University Hospital Limerick","Apr",26600
+2017,"University Hospital Limerick","May",27622
+2017,"University Hospital Limerick","Jun",28314
+2017,"University Hospital Limerick","Jul",28402
+2017,"University Hospital Limerick","Aug",28764
+2017,"University Hospital Limerick","Sep",28799
+2017,"University Hospital Limerick","Oct",29495
+2017,"University Hospital Limerick","Nov",30129
+2017,"University Hospital Limerick","Dec",30513
+2017,"University Hospital Waterford","Jan",31758
+2017,"University Hospital Waterford","Feb",33005
+2017,"University Hospital Waterford","Mar",34070
+2017,"University Hospital Waterford","Apr",33696
+2017,"University Hospital Waterford","May",34393
+2017,"University Hospital Waterford","Jun",34878
+2017,"University Hospital Waterford","Jul",36367
+2017,"University Hospital Waterford","Aug",36331
+2017,"University Hospital Waterford","Sep",35686
+2017,"University Hospital Waterford","Oct",35390
+2017,"University Hospital Waterford","Nov",35840
+2017,"University Hospital Waterford","Dec",36237
+2017,"Wexford General Hospital","Jan",2873
+2017,"Wexford General Hospital","Feb",2863
+2017,"Wexford General Hospital","Mar",2893
+2017,"Wexford General Hospital","Apr",2903
+2017,"Wexford General Hospital","May",2889
+2017,"Wexford General Hospital","Jun",2871
+2017,"Wexford General Hospital","Jul",2837
+2017,"Wexford General Hospital","Aug",2680
+2017,"Wexford General Hospital","Sep",2569
+2017,"Wexford General Hospital","Oct",2412
+2017,"Wexford General Hospital","Nov",2221
+2017,"Wexford General Hospital","Dec",2163
+2018,"Bantry General Hospital","Jan",1234
+2018,"Bantry General Hospital","Feb",1223
+2018,"Bantry General Hospital","Mar",1333
+2018,"Bantry General Hospital","Apr",1287
+2018,"Bantry General Hospital","May",1225
+2018,"Bantry General Hospital","Jun",1297
+2018,"Bantry General Hospital","Jul",1334
+2018,"Bantry General Hospital","Aug",1348
+2018,"Bantry General Hospital","Sep",1371
+2018,"Bantry General Hospital","Oct",1304
+2018,"Bantry General Hospital","Nov",1338
+2018,"Bantry General Hospital","Dec",1375
+2018,"Beaumont Hospital","Jan",26389
+2018,"Beaumont Hospital","Feb",23652
+2018,"Beaumont Hospital","Mar",23831
+2018,"Beaumont Hospital","Apr",24477
+2018,"Beaumont Hospital","May",25111
+2018,"Beaumont Hospital","Jun",23895
+2018,"Beaumont Hospital","Jul",24221
+2018,"Beaumont Hospital","Aug",25149
+2018,"Beaumont Hospital","Sep",25237
+2018,"Beaumont Hospital","Oct",24887
+2018,"Beaumont Hospital","Nov",23411
+2018,"Beaumont Hospital","Dec",23272
+2018,"Cappagh National Orthopaedic Hospital","Jan",1938
+2018,"Cappagh National Orthopaedic Hospital","Feb",1958
+2018,"Cappagh National Orthopaedic Hospital","Mar",1985
+2018,"Cappagh National Orthopaedic Hospital","Apr",2041
+2018,"Cappagh National Orthopaedic Hospital","May",2127
+2018,"Cappagh National Orthopaedic Hospital","Jun",2149
+2018,"Cappagh National Orthopaedic Hospital","Jul",2155
+2018,"Cappagh National Orthopaedic Hospital","Aug",2184
+2018,"Cappagh National Orthopaedic Hospital","Sep",2214
+2018,"Cappagh National Orthopaedic Hospital","Oct",2204
+2018,"Cappagh National Orthopaedic Hospital","Nov",2050
+2018,"Cappagh National Orthopaedic Hospital","Dec",1945
+2018,"Cavan General Hospital","Jan",8982
+2018,"Cavan General Hospital","Feb",8557
+2018,"Cavan General Hospital","Mar",8399
+2018,"Cavan General Hospital","Apr",8171
+2018,"Cavan General Hospital","May",7972
+2018,"Cavan General Hospital","Jun",7421
+2018,"Cavan General Hospital","Jul",7660
+2018,"Cavan General Hospital","Aug",7757
+2018,"Cavan General Hospital","Sep",7777
+2018,"Cavan General Hospital","Oct",6875
+2018,"Cavan General Hospital","Nov",7031
+2018,"Cavan General Hospital","Dec",6900
+2018,"Childrens University Hospital Temple Street","Jan",16455
+2018,"Childrens University Hospital Temple Street","Feb",16742
+2018,"Childrens University Hospital Temple Street","Mar",16766
+2018,"Childrens University Hospital Temple Street","Apr",17030
+2018,"Childrens University Hospital Temple Street","May",17247
+2018,"Childrens University Hospital Temple Street","Jun",17432
+2018,"Childrens University Hospital Temple Street","Jul",17670
+2018,"Childrens University Hospital Temple Street","Aug",17817
+2018,"Childrens University Hospital Temple Street","Sep",17748
+2018,"Childrens University Hospital Temple Street","Oct",17931
+2018,"Childrens University Hospital Temple Street","Nov",18115
+2018,"Childrens University Hospital Temple Street","Dec",18158
+2018,"Connolly Hospital","Jan",11541
+2018,"Connolly Hospital","Feb",10487
+2018,"Connolly Hospital","Mar",10675
+2018,"Connolly Hospital","Apr",10710
+2018,"Connolly Hospital","May",11076
+2018,"Connolly Hospital","Jun",10369
+2018,"Connolly Hospital","Jul",10372
+2018,"Connolly Hospital","Aug",10324
+2018,"Connolly Hospital","Sep",10176
+2018,"Connolly Hospital","Oct",10203
+2018,"Connolly Hospital","Nov",9423
+2018,"Connolly Hospital","Dec",9456
+2018,"Coombe Women and Infants University Hospital","Jan",2456
+2018,"Coombe Women and Infants University Hospital","Feb",2651
+2018,"Coombe Women and Infants University Hospital","Mar",2153
+2018,"Coombe Women and Infants University Hospital","Apr",2167
+2018,"Coombe Women and Infants University Hospital","May",2413
+2018,"Coombe Women and Infants University Hospital","Jun",2467
+2018,"Coombe Women and Infants University Hospital","Jul",2480
+2018,"Coombe Women and Infants University Hospital","Aug",2549
+2018,"Coombe Women and Infants University Hospital","Sep",2641
+2018,"Coombe Women and Infants University Hospital","Oct",2285
+2018,"Coombe Women and Infants University Hospital","Nov",2339
+2018,"Coombe Women and Infants University Hospital","Dec",2372
+2018,"Cork University Hospital","Jan",23368
+2018,"Cork University Hospital","Feb",23433
+2018,"Cork University Hospital","Mar",23442
+2018,"Cork University Hospital","Apr",22625
+2018,"Cork University Hospital","May",22785
+2018,"Cork University Hospital","Jun",22416
+2018,"Cork University Hospital","Jul",22548
+2018,"Cork University Hospital","Aug",22997
+2018,"Cork University Hospital","Sep",22557
+2018,"Cork University Hospital","Oct",22648
+2018,"Cork University Hospital","Nov",23489
+2018,"Cork University Hospital","Dec",23621
+2018,"Cork University Maternity Hospital ","Jan",3610
+2018,"Cork University Maternity Hospital ","Feb",3688
+2018,"Cork University Maternity Hospital ","Mar",3693
+2018,"Cork University Maternity Hospital ","Apr",3629
+2018,"Cork University Maternity Hospital ","May",3634
+2018,"Cork University Maternity Hospital ","Jun",3755
+2018,"Cork University Maternity Hospital ","Jul",3829
+2018,"Cork University Maternity Hospital ","Aug",3606
+2018,"Cork University Maternity Hospital ","Sep",3426
+2018,"Cork University Maternity Hospital ","Oct",3297
+2018,"Cork University Maternity Hospital ","Nov",3116
+2018,"Cork University Maternity Hospital ","Dec",2759
+2018,"Croom Orthopaedic Hospital","Jan",6952
+2018,"Croom Orthopaedic Hospital","Feb",7151
+2018,"Croom Orthopaedic Hospital","Mar",7275
+2018,"Croom Orthopaedic Hospital","Apr",7055
+2018,"Croom Orthopaedic Hospital","May",6952
+2018,"Croom Orthopaedic Hospital","Jun",6585
+2018,"Croom Orthopaedic Hospital","Jul",6552
+2018,"Croom Orthopaedic Hospital","Aug",6631
+2018,"Croom Orthopaedic Hospital","Sep",6458
+2018,"Croom Orthopaedic Hospital","Oct",6583
+2018,"Croom Orthopaedic Hospital","Nov",6609
+2018,"Croom Orthopaedic Hospital","Dec",6708
+2018,"Ennis Hospital","Jan",1477
+2018,"Ennis Hospital","Feb",1513
+2018,"Ennis Hospital","Mar",1506
+2018,"Ennis Hospital","Apr",1534
+2018,"Ennis Hospital","May",1562
+2018,"Ennis Hospital","Jun",1552
+2018,"Ennis Hospital","Jul",1396
+2018,"Ennis Hospital","Aug",1411
+2018,"Ennis Hospital","Sep",1439
+2018,"Ennis Hospital","Oct",1490
+2018,"Ennis Hospital","Nov",1553
+2018,"Ennis Hospital","Dec",1531
+2018,"Galway University Hospital","Jan",38417
+2018,"Galway University Hospital","Feb",38206
+2018,"Galway University Hospital","Mar",38295
+2018,"Galway University Hospital","Apr",38460
+2018,"Galway University Hospital","May",39048
+2018,"Galway University Hospital","Jun",39104
+2018,"Galway University Hospital","Jul",39082
+2018,"Galway University Hospital","Aug",39883
+2018,"Galway University Hospital","Sep",39603
+2018,"Galway University Hospital","Oct",39530
+2018,"Galway University Hospital","Nov",39675
+2018,"Galway University Hospital","Dec",39353
+2018,"Kerry General Hospital","Jan",9751
+2018,"Kerry General Hospital","Feb",9931
+2018,"Kerry General Hospital","Mar",9776
+2018,"Kerry General Hospital","Apr",9719
+2018,"Kerry General Hospital","May",9899
+2018,"Kerry General Hospital","Jun",9923
+2018,"Kerry General Hospital","Jul",9731
+2018,"Kerry General Hospital","Aug",9934
+2018,"Kerry General Hospital","Sep",9911
+2018,"Kerry General Hospital","Oct",9984
+2018,"Kerry General Hospital","Nov",10156
+2018,"Kerry General Hospital","Dec",10139
+2018,"Letterkenny General Hospital","Jan",14725
+2018,"Letterkenny General Hospital","Feb",14982
+2018,"Letterkenny General Hospital","Mar",15177
+2018,"Letterkenny General Hospital","Apr",15289
+2018,"Letterkenny General Hospital","May",15474
+2018,"Letterkenny General Hospital","Jun",15196
+2018,"Letterkenny General Hospital","Jul",15112
+2018,"Letterkenny General Hospital","Aug",15326
+2018,"Letterkenny General Hospital","Sep",15420
+2018,"Letterkenny General Hospital","Oct",15542
+2018,"Letterkenny General Hospital","Nov",15516
+2018,"Letterkenny General Hospital","Dec",15475
+2018,"Louth County Hospital","Jan",2251
+2018,"Louth County Hospital","Feb",2135
+2018,"Louth County Hospital","Mar",2334
+2018,"Louth County Hospital","Apr",2172
+2018,"Louth County Hospital","May",2236
+2018,"Louth County Hospital","Jun",1806
+2018,"Louth County Hospital","Jul",1731
+2018,"Louth County Hospital","Aug",1800
+2018,"Louth County Hospital","Sep",1792
+2018,"Louth County Hospital","Oct",1656
+2018,"Louth County Hospital","Nov",1573
+2018,"Louth County Hospital","Dec",1591
+2018,"Mallow General Hospital","Jan",2649
+2018,"Mallow General Hospital","Feb",2753
+2018,"Mallow General Hospital","Mar",2840
+2018,"Mallow General Hospital","Apr",2912
+2018,"Mallow General Hospital","May",2957
+2018,"Mallow General Hospital","Jun",2928
+2018,"Mallow General Hospital","Jul",2861
+2018,"Mallow General Hospital","Aug",2958
+2018,"Mallow General Hospital","Sep",2990
+2018,"Mallow General Hospital","Oct",2862
+2018,"Mallow General Hospital","Nov",2945
+2018,"Mallow General Hospital","Dec",2978
+2018,"Mater Misericordiae University Hospital","Jan",35065
+2018,"Mater Misericordiae University Hospital","Feb",36252
+2018,"Mater Misericordiae University Hospital","Mar",36443
+2018,"Mater Misericordiae University Hospital","Apr",37559
+2018,"Mater Misericordiae University Hospital","May",38641
+2018,"Mater Misericordiae University Hospital","Jun",38879
+2018,"Mater Misericordiae University Hospital","Jul",38024
+2018,"Mater Misericordiae University Hospital","Aug",39260
+2018,"Mater Misericordiae University Hospital","Sep",39291
+2018,"Mater Misericordiae University Hospital","Oct",39238
+2018,"Mater Misericordiae University Hospital","Nov",39461
+2018,"Mater Misericordiae University Hospital","Dec",39840
+2018,"Mayo General Hospital","Jan",8443
+2018,"Mayo General Hospital","Feb",8299
+2018,"Mayo General Hospital","Mar",8545
+2018,"Mayo General Hospital","Apr",8850
+2018,"Mayo General Hospital","May",8369
+2018,"Mayo General Hospital","Jun",8677
+2018,"Mayo General Hospital","Jul",8712
+2018,"Mayo General Hospital","Aug",8244
+2018,"Mayo General Hospital","Sep",8296
+2018,"Mayo General Hospital","Oct",8722
+2018,"Mayo General Hospital","Nov",8716
+2018,"Mayo General Hospital","Dec",8656
+2018,"Mercy University Hospital","Jan",5187
+2018,"Mercy University Hospital","Feb",4999
+2018,"Mercy University Hospital","Mar",5001
+2018,"Mercy University Hospital","Apr",4879
+2018,"Mercy University Hospital","May",4880
+2018,"Mercy University Hospital","Jun",4945
+2018,"Mercy University Hospital","Jul",5049
+2018,"Mercy University Hospital","Aug",5062
+2018,"Mercy University Hospital","Sep",5047
+2018,"Mercy University Hospital","Oct",4994
+2018,"Mercy University Hospital","Nov",4930
+2018,"Mercy University Hospital","Dec",4994
+2018,"Midland Regional Hospital Mullingar","Jan",7912
+2018,"Midland Regional Hospital Mullingar","Feb",7911
+2018,"Midland Regional Hospital Mullingar","Mar",8074
+2018,"Midland Regional Hospital Mullingar","Apr",7479
+2018,"Midland Regional Hospital Mullingar","May",7594
+2018,"Midland Regional Hospital Mullingar","Jun",7711
+2018,"Midland Regional Hospital Mullingar","Jul",7641
+2018,"Midland Regional Hospital Mullingar","Aug",7738
+2018,"Midland Regional Hospital Mullingar","Sep",7819
+2018,"Midland Regional Hospital Mullingar","Oct",7770
+2018,"Midland Regional Hospital Mullingar","Nov",7429
+2018,"Midland Regional Hospital Mullingar","Dec",7548
+2018,"Midland Regional Hospital Portlaoise","Jan",4385
+2018,"Midland Regional Hospital Portlaoise","Feb",4845
+2018,"Midland Regional Hospital Portlaoise","Mar",4485
+2018,"Midland Regional Hospital Portlaoise","Apr",4631
+2018,"Midland Regional Hospital Portlaoise","May",4766
+2018,"Midland Regional Hospital Portlaoise","Jun",5078
+2018,"Midland Regional Hospital Portlaoise","Jul",5198
+2018,"Midland Regional Hospital Portlaoise","Aug",5290
+2018,"Midland Regional Hospital Portlaoise","Sep",5505
+2018,"Midland Regional Hospital Portlaoise","Oct",5729
+2018,"Midland Regional Hospital Portlaoise","Nov",5732
+2018,"Midland Regional Hospital Portlaoise","Dec",5776
+2018,"Midland Regional Hospital Tullamore","Jan",15130
+2018,"Midland Regional Hospital Tullamore","Feb",15238
+2018,"Midland Regional Hospital Tullamore","Mar",15293
+2018,"Midland Regional Hospital Tullamore","Apr",14450
+2018,"Midland Regional Hospital Tullamore","May",14833
+2018,"Midland Regional Hospital Tullamore","Jun",14896
+2018,"Midland Regional Hospital Tullamore","Jul",14332
+2018,"Midland Regional Hospital Tullamore","Aug",14397
+2018,"Midland Regional Hospital Tullamore","Sep",14282
+2018,"Midland Regional Hospital Tullamore","Oct",14526
+2018,"Midland Regional Hospital Tullamore","Nov",14500
+2018,"Midland Regional Hospital Tullamore","Dec",14900
+2018,"Naas General Hospital","Jan",7490
+2018,"Naas General Hospital","Feb",7605
+2018,"Naas General Hospital","Mar",7636
+2018,"Naas General Hospital","Apr",7699
+2018,"Naas General Hospital","May",7644
+2018,"Naas General Hospital","Jun",7913
+2018,"Naas General Hospital","Jul",7936
+2018,"Naas General Hospital","Aug",8104
+2018,"Naas General Hospital","Sep",8131
+2018,"Naas General Hospital","Oct",8239
+2018,"Naas General Hospital","Nov",8099
+2018,"Naas General Hospital","Dec",8135
+2018,"Nenagh Hospital","Jan",860
+2018,"Nenagh Hospital","Feb",820
+2018,"Nenagh Hospital","Mar",811
+2018,"Nenagh Hospital","Apr",818
+2018,"Nenagh Hospital","May",811
+2018,"Nenagh Hospital","Jun",779
+2018,"Nenagh Hospital","Jul",732
+2018,"Nenagh Hospital","Aug",686
+2018,"Nenagh Hospital","Sep",754
+2018,"Nenagh Hospital","Oct",705
+2018,"Nenagh Hospital","Nov",732
+2018,"Nenagh Hospital","Dec",753
+2018,"Our Lady of Lourdes Hospital Drogheda","Jan",12771
+2018,"Our Lady of Lourdes Hospital Drogheda","Feb",11415
+2018,"Our Lady of Lourdes Hospital Drogheda","Mar",11734
+2018,"Our Lady of Lourdes Hospital Drogheda","Apr",12128
+2018,"Our Lady of Lourdes Hospital Drogheda","May",12719
+2018,"Our Lady of Lourdes Hospital Drogheda","Jun",12811
+2018,"Our Lady of Lourdes Hospital Drogheda","Jul",12010
+2018,"Our Lady of Lourdes Hospital Drogheda","Aug",12289
+2018,"Our Lady of Lourdes Hospital Drogheda","Sep",12638
+2018,"Our Lady of Lourdes Hospital Drogheda","Oct",12735
+2018,"Our Lady of Lourdes Hospital Drogheda","Nov",11452
+2018,"Our Lady of Lourdes Hospital Drogheda","Dec",11474
+2018,"Our Lady's Children's Hospital Crumlin","Jan",18078
+2018,"Our Lady's Children's Hospital Crumlin","Feb",18278
+2018,"Our Lady's Children's Hospital Crumlin","Mar",18530
+2018,"Our Lady's Children's Hospital Crumlin","Apr",18886
+2018,"Our Lady's Children's Hospital Crumlin","May",19499
+2018,"Our Lady's Children's Hospital Crumlin","Jun",19891
+2018,"Our Lady's Children's Hospital Crumlin","Jul",19995
+2018,"Our Lady's Children's Hospital Crumlin","Aug",19213
+2018,"Our Lady's Children's Hospital Crumlin","Sep",19214
+2018,"Our Lady's Children's Hospital Crumlin","Oct",19348
+2018,"Our Lady's Children's Hospital Crumlin","Nov",19530
+2018,"Our Lady's Children's Hospital Crumlin","Dec",19701
+2018,"Our Lady's Hospital Navan","Jan",5543
+2018,"Our Lady's Hospital Navan","Feb",5613
+2018,"Our Lady's Hospital Navan","Mar",5654
+2018,"Our Lady's Hospital Navan","Apr",5840
+2018,"Our Lady's Hospital Navan","May",5833
+2018,"Our Lady's Hospital Navan","Jun",5958
+2018,"Our Lady's Hospital Navan","Jul",5916
+2018,"Our Lady's Hospital Navan","Aug",6024
+2018,"Our Lady's Hospital Navan","Sep",6078
+2018,"Our Lady's Hospital Navan","Oct",6214
+2018,"Our Lady's Hospital Navan","Nov",6407
+2018,"Our Lady's Hospital Navan","Dec",6470
+2018,"Portiuncula Hospital","Jan",3776
+2018,"Portiuncula Hospital","Feb",3485
+2018,"Portiuncula Hospital","Mar",3506
+2018,"Portiuncula Hospital","Apr",3574
+2018,"Portiuncula Hospital","May",3646
+2018,"Portiuncula Hospital","Jun",3722
+2018,"Portiuncula Hospital","Jul",3741
+2018,"Portiuncula Hospital","Aug",3756
+2018,"Portiuncula Hospital","Sep",3685
+2018,"Portiuncula Hospital","Oct",3665
+2018,"Portiuncula Hospital","Nov",3785
+2018,"Portiuncula Hospital","Dec",3767
+2018,"Roscommon Hospital","Jan",2739
+2018,"Roscommon Hospital","Feb",2786
+2018,"Roscommon Hospital","Mar",2735
+2018,"Roscommon Hospital","Apr",2803
+2018,"Roscommon Hospital","May",2848
+2018,"Roscommon Hospital","Jun",2770
+2018,"Roscommon Hospital","Jul",2802
+2018,"Roscommon Hospital","Aug",2989
+2018,"Roscommon Hospital","Sep",2906
+2018,"Roscommon Hospital","Oct",2963
+2018,"Roscommon Hospital","Nov",3007
+2018,"Roscommon Hospital","Dec",3118
+2018,"Rotunda Hospital","Jan",4520
+2018,"Rotunda Hospital","Feb",5130
+2018,"Rotunda Hospital","Mar",5210
+2018,"Rotunda Hospital","Apr",5421
+2018,"Rotunda Hospital","May",3647
+2018,"Rotunda Hospital","Jun",3780
+2018,"Rotunda Hospital","Jul",3065
+2018,"Rotunda Hospital","Aug",3202
+2018,"Rotunda Hospital","Sep",3314
+2018,"Rotunda Hospital","Oct",3399
+2018,"Rotunda Hospital","Nov",3617
+2018,"Rotunda Hospital","Dec",3589
+2018,"Royal Victoria Eye and Ear Hospital","Jan",12174
+2018,"Royal Victoria Eye and Ear Hospital","Feb",12354
+2018,"Royal Victoria Eye and Ear Hospital","Mar",12497
+2018,"Royal Victoria Eye and Ear Hospital","Apr",12587
+2018,"Royal Victoria Eye and Ear Hospital","May",12774
+2018,"Royal Victoria Eye and Ear Hospital","Jun",13002
+2018,"Royal Victoria Eye and Ear Hospital","Jul",12625
+2018,"Royal Victoria Eye and Ear Hospital","Aug",11581
+2018,"Royal Victoria Eye and Ear Hospital","Sep",11603
+2018,"Royal Victoria Eye and Ear Hospital","Oct",11255
+2018,"Royal Victoria Eye and Ear Hospital","Nov",10489
+2018,"Royal Victoria Eye and Ear Hospital","Dec",10609
+2018,"Sligo Regional Hospital","Jan",12436
+2018,"Sligo Regional Hospital","Feb",12223
+2018,"Sligo Regional Hospital","Mar",12463
+2018,"Sligo Regional Hospital","Apr",12344
+2018,"Sligo Regional Hospital","May",12675
+2018,"Sligo Regional Hospital","Jun",12588
+2018,"Sligo Regional Hospital","Jul",12892
+2018,"Sligo Regional Hospital","Aug",12964
+2018,"Sligo Regional Hospital","Sep",13413
+2018,"Sligo Regional Hospital","Oct",13600
+2018,"Sligo Regional Hospital","Nov",13792
+2018,"Sligo Regional Hospital","Dec",13519
+2018,"South Infirmary Victoria University Hospital","Jan",22002
+2018,"South Infirmary Victoria University Hospital","Feb",22383
+2018,"South Infirmary Victoria University Hospital","Mar",22584
+2018,"South Infirmary Victoria University Hospital","Apr",22854
+2018,"South Infirmary Victoria University Hospital","May",22943
+2018,"South Infirmary Victoria University Hospital","Jun",21899
+2018,"South Infirmary Victoria University Hospital","Jul",22612
+2018,"South Infirmary Victoria University Hospital","Aug",23099
+2018,"South Infirmary Victoria University Hospital","Sep",22959
+2018,"South Infirmary Victoria University Hospital","Oct",22692
+2018,"South Infirmary Victoria University Hospital","Nov",22447
+2018,"South Infirmary Victoria University Hospital","Dec",22094
+2018,"South Tipperary General Hospital","Jan",3523
+2018,"South Tipperary General Hospital","Feb",3570
+2018,"South Tipperary General Hospital","Mar",3618
+2018,"South Tipperary General Hospital","Apr",3652
+2018,"South Tipperary General Hospital","May",3782
+2018,"South Tipperary General Hospital","Jun",3802
+2018,"South Tipperary General Hospital","Jul",3888
+2018,"South Tipperary General Hospital","Aug",3992
+2018,"South Tipperary General Hospital","Sep",3961
+2018,"South Tipperary General Hospital","Oct",3966
+2018,"South Tipperary General Hospital","Nov",4025
+2018,"South Tipperary General Hospital","Dec",4066
+2018,"St. Columcille's Hospital","Jan",3043
+2018,"St. Columcille's Hospital","Feb",3098
+2018,"St. Columcille's Hospital","Mar",3157
+2018,"St. Columcille's Hospital","Apr",3161
+2018,"St. Columcille's Hospital","May",3200
+2018,"St. Columcille's Hospital","Jun",3299
+2018,"St. Columcille's Hospital","Jul",3405
+2018,"St. Columcille's Hospital","Aug",3455
+2018,"St. Columcille's Hospital","Sep",3511
+2018,"St. Columcille's Hospital","Oct",3385
+2018,"St. Columcille's Hospital","Nov",3379
+2018,"St. Columcille's Hospital","Dec",3368
+2018,"St. James's Hospital","Jan",16899
+2018,"St. James's Hospital","Feb",17091
+2018,"St. James's Hospital","Mar",17451
+2018,"St. James's Hospital","Apr",17961
+2018,"St. James's Hospital","May",18599
+2018,"St. James's Hospital","Jun",18918
+2018,"St. James's Hospital","Jul",19449
+2018,"St. James's Hospital","Aug",20074
+2018,"St. James's Hospital","Sep",20298
+2018,"St. James's Hospital","Oct",20507
+2018,"St. James's Hospital","Nov",20473
+2018,"St. James's Hospital","Dec",20517
+2018,"St. John's Hospital Limerick","Jan",1078
+2018,"St. John's Hospital Limerick","Feb",1074
+2018,"St. John's Hospital Limerick","Mar",1068
+2018,"St. John's Hospital Limerick","Apr",1166
+2018,"St. John's Hospital Limerick","May",1588
+2018,"St. John's Hospital Limerick","Jun",1100
+2018,"St. John's Hospital Limerick","Jul",1096
+2018,"St. John's Hospital Limerick","Aug",1121
+2018,"St. John's Hospital Limerick","Sep",1175
+2018,"St. John's Hospital Limerick","Oct",1186
+2018,"St. John's Hospital Limerick","Nov",1196
+2018,"St. John's Hospital Limerick","Dec",1196
+2018,"St. Luke's General Hospital Kilkenny","Jan",3008
+2018,"St. Luke's General Hospital Kilkenny","Feb",2774
+2018,"St. Luke's General Hospital Kilkenny","Mar",2840
+2018,"St. Luke's General Hospital Kilkenny","Apr",2916
+2018,"St. Luke's General Hospital Kilkenny","May",3088
+2018,"St. Luke's General Hospital Kilkenny","Jun",3230
+2018,"St. Luke's General Hospital Kilkenny","Jul",3438
+2018,"St. Luke's General Hospital Kilkenny","Aug",3603
+2018,"St. Luke's General Hospital Kilkenny","Sep",3402
+2018,"St. Luke's General Hospital Kilkenny","Oct",3263
+2018,"St. Luke's General Hospital Kilkenny","Nov",3216
+2018,"St. Luke's General Hospital Kilkenny","Dec",3194
+2018,"St. Michael's Hospital Dun Laoghaire","Jan",2499
+2018,"St. Michael's Hospital Dun Laoghaire","Feb",2477
+2018,"St. Michael's Hospital Dun Laoghaire","Mar",2572
+2018,"St. Michael's Hospital Dun Laoghaire","Apr",2555
+2018,"St. Michael's Hospital Dun Laoghaire","May",2421
+2018,"St. Michael's Hospital Dun Laoghaire","Jun",2542
+2018,"St. Michael's Hospital Dun Laoghaire","Jul",2642
+2018,"St. Michael's Hospital Dun Laoghaire","Aug",2658
+2018,"St. Michael's Hospital Dun Laoghaire","Sep",2706
+2018,"St. Michael's Hospital Dun Laoghaire","Oct",2620
+2018,"St. Michael's Hospital Dun Laoghaire","Nov",2620
+2018,"St. Michael's Hospital Dun Laoghaire","Dec",2590
+2018,"St. Vincent's University Hospital","Jan",18783
+2018,"St. Vincent's University Hospital","Feb",18755
+2018,"St. Vincent's University Hospital","Mar",18727
+2018,"St. Vincent's University Hospital","Apr",19227
+2018,"St. Vincent's University Hospital","May",19749
+2018,"St. Vincent's University Hospital","Jun",20234
+2018,"St. Vincent's University Hospital","Jul",20303
+2018,"St. Vincent's University Hospital","Aug",19624
+2018,"St. Vincent's University Hospital","Sep",19646
+2018,"St. Vincent's University Hospital","Oct",20148
+2018,"St. Vincent's University Hospital","Nov",20289
+2018,"St. Vincent's University Hospital","Dec",20530
+2018,"Tallaght Children's Hospital","Jan",7342
+2018,"Tallaght Children's Hospital","Feb",7167
+2018,"Tallaght Children's Hospital","Mar",7372
+2018,"Tallaght Children's Hospital","Apr",7400
+2018,"Tallaght Children's Hospital","May",7283
+2018,"Tallaght Children's Hospital","Jun",7391
+2018,"Tallaght Children's Hospital","Jul",7424
+2018,"Tallaght Children's Hospital","Aug",7585
+2018,"Tallaght Children's Hospital","Sep",7546
+2018,"Tallaght Children's Hospital","Oct",7736
+2018,"Tallaght Children's Hospital","Nov",7701
+2018,"Tallaght Children's Hospital","Dec",7736
+2018,"Tallaght Hospital","Jan",26494
+2018,"Tallaght Hospital","Feb",26358
+2018,"Tallaght Hospital","Mar",26702
+2018,"Tallaght Hospital","Apr",27186
+2018,"Tallaght Hospital","May",27016
+2018,"Tallaght Hospital","Jun",27590
+2018,"Tallaght Hospital","Jul",28385
+2018,"Tallaght Hospital","Aug",28686
+2018,"Tallaght Hospital","Sep",28566
+2018,"Tallaght Hospital","Oct",28777
+2018,"Tallaght Hospital","Nov",29456
+2018,"Tallaght Hospital","Dec",29638
+2018,"University Hospital Limerick","Jan",30125
+2018,"University Hospital Limerick","Feb",30192
+2018,"University Hospital Limerick","Mar",30815
+2018,"University Hospital Limerick","Apr",31035
+2018,"University Hospital Limerick","May",31117
+2018,"University Hospital Limerick","Jun",30907
+2018,"University Hospital Limerick","Jul",30188
+2018,"University Hospital Limerick","Aug",29413
+2018,"University Hospital Limerick","Sep",29982
+2018,"University Hospital Limerick","Oct",30694
+2018,"University Hospital Limerick","Nov",31369
+2018,"University Hospital Limerick","Dec",31563
+2018,"University Hospital Waterford","Jan",36581
+2018,"University Hospital Waterford","Feb",37316
+2018,"University Hospital Waterford","Mar",36968
+2018,"University Hospital Waterford","Apr",37031
+2018,"University Hospital Waterford","May",36027
+2018,"University Hospital Waterford","Jun",36590
+2018,"University Hospital Waterford","Jul",37195
+2018,"University Hospital Waterford","Aug",36558
+2018,"University Hospital Waterford","Sep",36817
+2018,"University Hospital Waterford","Oct",36807
+2018,"University Hospital Waterford","Nov",37018
+2018,"University Hospital Waterford","Dec",36981
+2018,"Wexford General Hospital","Jan",2234
+2018,"Wexford General Hospital","Feb",2230
+2018,"Wexford General Hospital","Mar",2140
+2018,"Wexford General Hospital","Apr",2137
+2018,"Wexford General Hospital","May",2194
+2018,"Wexford General Hospital","Jun",2218
+2018,"Wexford General Hospital","Jul",2246
+2018,"Wexford General Hospital","Aug",2244
+2018,"Wexford General Hospital","Sep",2242
+2018,"Wexford General Hospital","Oct",2199
+2018,"Wexford General Hospital","Nov",2154
+2018,"Wexford General Hospital","Dec",2207
