@@ -1,0 +1,2 @@
+# hospital-op-waiting-list-analysis
+ Python program to process OP Waiting List* available on National Open Data portal (http://data.gov.ie/). This involves connecting to the CKAN platform and accessing the datasets and associated files for each year on the portal. In addition, the student will be required to integrate files associated with the dataset, analyse them by aggregating the counts by hospital and finally creating a chart to display the changes in OP waiting list over time https://data.gov.ie/dataset/op-waiting-list-by-group-hospital
